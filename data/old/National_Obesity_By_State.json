@@ -1,0 +1,314 @@
+[
+ {
+   "State": "Texas",
+   "Obesity": 32.4,
+   "Shape__Area": 7670000000000,
+   "Shape__Length": 15408321.87
+ },
+ {
+   "State": "California",
+   "Obesity": 24.2,
+   "Shape__Area": 5330000000000,
+   "Shape__Length": 14518698.46
+ },
+ {
+   "State": "Kentucky",
+   "Obesity": 34.6,
+   "Shape__Area": 1130000000000,
+   "Shape__Length": 6346698.586
+ },
+ {
+   "State": "Georgia",
+   "Obesity": 30.7,
+   "Shape__Area": 1650000000000,
+   "Shape__Length": 5795595.919
+ },
+ {
+   "State": "Wisconsin",
+   "Obesity": 30.7,
+   "Shape__Area": 1570000000000,
+   "Shape__Length": 6806782.081
+ },
+ {
+   "State": "Oregon",
+   "Obesity": 30.1,
+   "Shape__Area": 3180000000000,
+   "Shape__Length": 7976010.942
+ },
+ {
+   "State": "Virginia",
+   "Obesity": 29.2,
+   "Shape__Area": 1160000000000,
+   "Shape__Length": 7710803.9
+ },
+ {
+   "State": "Tennessee",
+   "Obesity": 33.8,
+   "Shape__Area": 1180000000000,
+   "Shape__Length": 6350376.861
+ },
+ {
+   "State": "Louisiana",
+   "Obesity": 36.2,
+   "Shape__Area": 1360000000000,
+   "Shape__Length": 7383856.92
+ },
+ {
+   "State": "New York",
+   "Obesity": 25,
+   "Shape__Area": 1410000000000,
+   "Shape__Length": 7981383.078
+ },
+ {
+   "State": "Michigan",
+   "Obesity": 31.2,
+   "Shape__Area": 1660000000000,
+   "Shape__Length": 12407988.03
+ },
+ {
+   "State": "Idaho",
+   "Obesity": 28.6,
+   "Shape__Area": 2590000000000,
+   "Shape__Length": 9081125.222
+ },
+ {
+   "State": "Florida",
+   "Obesity": 26.8,
+   "Shape__Area": 1670000000000,
+   "Shape__Length": 10533929.14
+ },
+ {
+   "State": "Alaska",
+   "Obesity": 29.8,
+   "Shape__Area": 530000000000,
+   "Shape__Length": 6663726.59
+ },
+ {
+   "State": "Montana",
+   "Obesity": 23.6,
+   "Shape__Area": 4370000000000,
+   "Shape__Length": 9745471.753
+ },
+ {
+   "State": "Minnesota",
+   "Obesity": 26.1,
+   "Shape__Area": 2370000000000,
+   "Shape__Length": 8530250.43
+ },
+ {
+   "State": "Nebraska",
+   "Obesity": 31.4,
+   "Shape__Area": 2210000000000,
+   "Shape__Length": 6921599.988
+ },
+ {
+   "State": "Washington",
+   "Obesity": 26.4,
+   "Shape__Area": 2210000000000,
+   "Shape__Length": 7508966.841
+ },
+ {
+   "State": "Ohio",
+   "Obesity": 29.8,
+   "Shape__Area": 1160000000000,
+   "Shape__Length": 5015484.924
+ },
+ {
+   "State": "Illinois",
+   "Obesity": 30.8,
+   "Shape__Area": 1570000000000,
+   "Shape__Length": 6172530.809
+ },
+ {
+   "State": "Missouri",
+   "Obesity": 32.4,
+   "Shape__Area": 1950000000000,
+   "Shape__Length": 7165632.969
+ },
+ {
+   "State": "Iowa",
+   "Obesity": 32.1,
+   "Shape__Area": 1580000000000,
+   "Shape__Length": 5558144.625
+ },
+ {
+   "State": "South Dakota",
+   "Obesity": 30.4,
+   "Shape__Area": 2200000000000,
+   "Shape__Length": 6680911.248
+ },
+ {
+   "State": "Arkansas",
+   "Obesity": 34.5,
+   "Shape__Area": 1490000000000,
+   "Shape__Length": 5707634.003
+ },
+ {
+   "State": "Mississippi",
+   "Obesity": 35.6,
+   "Shape__Area": 1330000000000,
+   "Shape__Length": 5834201.768
+ },
+ {
+   "State": "Colorado",
+   "Obesity": 20.2,
+   "Shape__Area": 3070000000000,
+   "Shape__Length": 7092296.498
+ },
+ {
+   "State": "North Carolina",
+   "Obesity": 30.1,
+   "Shape__Area": 1500000000000,
+   "Shape__Length": 6714056.237
+ },
+ {
+   "State": "Utah",
+   "Obesity": 24.5,
+   "Shape__Area": 2610000000000,
+   "Shape__Length": 6798972.504
+ },
+ {
+   "State": "Oklahoma",
+   "Obesity": 33.9,
+   "Shape__Area": 1980000000000,
+   "Shape__Length": 7857119.569
+ },
+ {
+   "State": "Wyoming",
+   "Obesity": 29,
+   "Shape__Area": 2900000000000,
+   "Shape__Length": 6860971.19
+ },
+ {
+   "State": "West Virginia",
+   "Obesity": 35.6,
+   "Shape__Area": 685000000000,
+   "Shape__Length": 5374279.697
+ },
+ {
+   "State": "Indiana",
+   "Obesity": 31.3,
+   "Shape__Area": 1010000000000,
+   "Shape__Length": 4858882.219
+ },
+ {
+   "State": "Massachusetts",
+   "Obesity": 24.3,
+   "Shape__Area": 247000000000,
+   "Shape__Length": 4197218.183
+ },
+ {
+   "State": "Nevada",
+   "Obesity": 26.7,
+   "Shape__Area": 3560000000000,
+   "Shape__Length": 8240794.811
+ },
+ {
+   "State": "Connecticut",
+   "Obesity": 25.3,
+   "Shape__Area": 145000000000,
+   "Shape__Length": 1780630.956
+ },
+ {
+   "State": "District of Columbia",
+   "Obesity": 22.1,
+   "Shape__Area": 1972102306,
+   "Shape__Length": 200324.9608
+ },
+ {
+   "State": "Rhode Island",
+   "Obesity": 26,
+   "Shape__Area": 36178076495,
+   "Shape__Length": 984524.5815
+ },
+ {
+   "State": "Alabama",
+   "Obesity": 35.6,
+   "Shape__Area": 1440000000000,
+   "Shape__Length": 5750657.812
+ },
+ {
+   "State": "Puerto Rico",
+   "Obesity": 29.5,
+   "Shape__Area": 115000000000,
+   "Shape__Length": 2136273.272
+ },
+ {
+   "State": "South Carolina",
+   "Obesity": 31.7,
+   "Shape__Area": 878000000000,
+   "Shape__Length": 4370940.548
+ },
+ {
+   "State": "Maine",
+   "Obesity": 30,
+   "Shape__Area": 990000000000,
+   "Shape__Length": 5560035.365
+ },
+ {
+   "State": "Hawaii",
+   "Obesity": 22.7,
+   "Shape__Area": null,
+   "Shape__Length": null
+ },
+ {
+   "State": "Arizona",
+   "Obesity": 28.4,
+   "Shape__Area": 3560000000000,
+   "Shape__Length": 8044184.234
+ },
+ {
+   "State": "New Mexico",
+   "Obesity": 28.8,
+   "Shape__Area": 3620000000000,
+   "Shape__Length": 8075166.555
+ },
+ {
+   "State": "Maryland",
+   "Obesity": 28.9,
+   "Shape__Area": 304000000000,
+   "Shape__Length": 5850363.292
+ },
+ {
+   "State": "Delaware",
+   "Obesity": 29.7,
+   "Shape__Area": 59081101611,
+   "Shape__Length": 1383604.118
+ },
+ {
+   "State": "Pennsylvania",
+   "Obesity": 30,
+   "Shape__Area": 1290000000000,
+   "Shape__Length": 5024348.113
+ },
+ {
+   "State": "Kansas",
+   "Obesity": 34.2,
+   "Shape__Area": 2340000000000,
+   "Shape__Length": 6540498.42
+ },
+ {
+   "State": "Vermont",
+   "Obesity": 25.1,
+   "Shape__Area": 279000000000,
+   "Shape__Length": 2653732.233
+ },
+ {
+   "State": "New Jersey",
+   "Obesity": 25.6,
+   "Shape__Area": 225000000000,
+   "Shape__Length": 2599119.261
+ },
+ {
+   "State": "North Dakota",
+   "Obesity": 31,
+   "Shape__Area": 2010000000000,
+   "Shape__Length": 5872756.359
+ },
+ {
+   "State": "New Hampshire",
+   "Obesity": 26.3,
+   "Shape__Area": 271000000000,
+   "Shape__Length": 2674767.148
+ }
+]

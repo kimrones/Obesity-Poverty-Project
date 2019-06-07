@@ -1,0 +1,3148 @@
+Primary,State,County,Year,percent
+1,Alabama,Autauga County,2013,34.1
+2,Alabama,Baldwin County,2013,27.4
+3,Alabama,Barbour County,2013,44.4
+4,Alabama,Bibb County,2013,40.3
+5,Alabama,Blount County,2013,34.6
+6,Alabama,Bullock County,2013,43
+7,Alabama,Butler County,2013,36.3
+8,Alabama,Calhoun County,2013,32.2
+9,Alabama,Chambers County,2013,39.7
+10,Alabama,Cherokee County,2013,33.6
+11,Alabama,Chilton County,2013,35.9
+12,Alabama,Choctaw County,2013,40.8
+13,Alabama,Clarke County,2013,38.2
+14,Alabama,Clay County,2013,37.3
+15,Alabama,Cleburne County,2013,30
+16,Alabama,Coffee County,2013,33.7
+17,Alabama,Colbert County,2013,37.5
+18,Alabama,Conecuh County,2013,36.4
+19,Alabama,Coosa County,2013,39.7
+20,Alabama,Covington County,2013,34
+21,Alabama,Crenshaw County,2013,39.7
+22,Alabama,Cullman County,2013,33.4
+23,Alabama,Dale County,2013,36.5
+24,Alabama,Dallas County,2013,40.8
+25,Alabama,DeKalb County,2013,30.4
+26,Alabama,Elmore County,2013,35.4
+27,Alabama,Escambia County,2013,37.7
+28,Alabama,Etowah County,2013,35.1
+29,Alabama,Fayette County,2013,33.7
+30,Alabama,Franklin County,2013,33.2
+31,Alabama,Geneva County,2013,34.1
+32,Alabama,Greene County,2013,46.3
+33,Alabama,Hale County,2013,40.4
+34,Alabama,Henry County,2013,35.8
+35,Alabama,Houston County,2013,32.8
+36,Alabama,Jackson County,2013,32
+37,Alabama,Jefferson County,2013,33.2
+38,Alabama,Lamar County,2013,33.6
+39,Alabama,Lauderdale County,2013,32.9
+40,Alabama,Lawrence County,2013,35.5
+41,Alabama,Lee County,2013,29
+42,Alabama,Limestone County,2013,32.9
+43,Alabama,Lowndes County,2013,45.1
+44,Alabama,Macon County,2013,44.7
+45,Alabama,Madison County,2013,32.3
+46,Alabama,Marengo County,2013,40.3
+47,Alabama,Marion County,2013,35.5
+48,Alabama,Marshall County,2013,33.2
+49,Alabama,Mobile County,2013,37.1
+50,Alabama,Monroe County,2013,35.3
+51,Alabama,Montgomery County,2013,34.8
+52,Alabama,Morgan County,2013,31.6
+53,Alabama,Perry County,2013,43
+54,Alabama,Pickens County,2013,36.4
+55,Alabama,Pike County,2013,38.4
+56,Alabama,Randolph County,2013,30.9
+57,Alabama,Russell County,2013,36.4
+58,Alabama,St. Clair County,2013,33
+59,Alabama,Shelby County,2013,30.1
+60,Alabama,Sumter County,2013,40.3
+61,Alabama,Talladega County,2013,39
+62,Alabama,Tallapoosa County,2013,36.9
+63,Alabama,Tuscaloosa County,2013,34.3
+64,Alabama,Walker County,2013,33.2
+65,Alabama,Washington County,2013,40.2
+66,Alabama,Wilcox County,2013,44.9
+67,Alabama,Winston County,2013,30.2
+68,Alaska,Aleutians East Borough,2013,33.4
+69,Alaska,Aleutians West,2013,39.4
+70,Alaska,Anchorage Municipality,2013,27
+71,Alaska,Bethel Census Area,2013,30.3
+72,Alaska,Bristol Bay Borough,2013,39.7
+73,Alaska,Denali Borough,2013,27
+74,Alaska,Dillingham Census Area,2013,38
+75,Alaska,Fairbanks North Star,2013,28.1
+76,Alaska,Haines Borough,2013,25.5
+77,Alaska,Hoonah-Angoon 2009 Census,2013,31.8
+78,Alaska,Juneau City and Borough,2013,28.6
+79,Alaska,Kenai Peninsula Borough,2013,28.4
+80,Alaska,Ketchikan Gateway Borough,2013,30.8
+81,Alaska,Kodiak Island Borough,2013,30.2
+82,Alaska,Lake and Peninsula Borough,2013,31.9
+83,Alaska,Matanuska-Susitna Borough,2013,30.2
+84,Alaska,Nome Census Area,2013,31.7
+85,Alaska,North Slope Borough,2013,36.5
+86,Alaska,Northwest Arctic Borough,2013,32.4
+87,Alaska,Petersburg 2009 Census,2013,30.5
+88,Alaska,Prince of Wales-Hyder 2009 Census,2013,35.2
+89,Alaska,Prince of Wales-Outer K 2004 to 2008 Census,2013,No Data
+90,Alaska,Sitka City and Borough,2013,28.7
+91,Alaska,Skagway Municipality 2009 Census,2013,28.1
+92,Alaska,Hoonah-Angoon 2004 to 2008 Census,2013,No Data
+93,Alaska,Southeast Fairbanks Census,2013,33.1
+94,Alaska,Valdez-Cordova Census Area,2013,30.4
+95,Alaska,Wade Hampton Census Area,2013,32.6
+96,Alaska,Wrangell City and Borough 2009 Census,2013,30.6
+97,Alaska,Wrangell-Petersburg 2004 to 2008 Census,2013,No Data
+98,Alaska,Yakutat City and Borough,2013,31.3
+99,Alaska,Yukon-Koyukuk Census Area,2013,28.3
+100,Arizona,Apache County,2013,35.2
+101,Arizona,Cochise County,2013,26
+102,Arizona,Coconino County,2013,23.2
+103,Arizona,Gila County,2013,27.5
+104,Arizona,Graham County,2013,32.5
+105,Arizona,Greenlee County,2013,34.7
+106,Arizona,La Paz County,2013,32
+107,Arizona,Maricopa County,2013,25.4
+108,Arizona,Mohave County,2013,29.6
+109,Arizona,Navajo County,2013,30.9
+110,Arizona,Pima County,2013,24.2
+111,Arizona,Pinal County,2013,31.6
+112,Arizona,Santa Cruz County,2013,23
+113,Arizona,Yavapai County,2013,25.3
+114,Arizona,Yuma County,2013,30.5
+115,Arkansas,Arkansas County,2013,33.8
+116,Arkansas,Ashley County,2013,42.1
+117,Arkansas,Baxter County,2013,32.3
+118,Arkansas,Benton County,2013,30.1
+119,Arkansas,Boone County,2013,33.9
+120,Arkansas,Bradley County,2013,39
+121,Arkansas,Calhoun County,2013,34.2
+122,Arkansas,Carroll County,2013,35.8
+123,Arkansas,Chicot County,2013,43.1
+124,Arkansas,Clark County,2013,34.3
+125,Arkansas,Clay County,2013,33.7
+126,Arkansas,Cleburne County,2013,31.8
+127,Arkansas,Cleveland County,2013,35.7
+128,Arkansas,Columbia County,2013,36.4
+129,Arkansas,Conway County,2013,39.7
+130,Arkansas,Craighead County,2013,36.4
+131,Arkansas,Crawford County,2013,35.1
+132,Arkansas,Crittenden County,2013,38.8
+133,Arkansas,Cross County,2013,37.9
+134,Arkansas,Dallas County,2013,36.2
+135,Arkansas,Desha County,2013,39.6
+136,Arkansas,Drew County,2013,34.3
+137,Arkansas,Faulkner County,2013,33.2
+138,Arkansas,Franklin County,2013,37.1
+139,Arkansas,Fulton County,2013,32.9
+140,Arkansas,Garland County,2013,32.3
+141,Arkansas,Grant County,2013,38.3
+142,Arkansas,Greene County,2013,31.2
+143,Arkansas,Hempstead County,2013,40.3
+144,Arkansas,Hot Spring County,2013,34.7
+145,Arkansas,Howard County,2013,35.7
+146,Arkansas,Independence County,2013,37.2
+147,Arkansas,Izard County,2013,33.9
+148,Arkansas,Jackson County,2013,37.2
+149,Arkansas,Jefferson County,2013,40.7
+150,Arkansas,Johnson County,2013,36.4
+151,Arkansas,Lafayette County,2013,36.3
+152,Arkansas,Lawrence County,2013,31.8
+153,Arkansas,Lee County,2013,35.7
+154,Arkansas,Lincoln County,2013,37.5
+155,Arkansas,Little River County,2013,32.7
+156,Arkansas,Logan County,2013,37.5
+157,Arkansas,Lonoke County,2013,35.8
+158,Arkansas,Madison County,2013,34
+159,Arkansas,Marion County,2013,31.7
+160,Arkansas,Miller County,2013,35.9
+161,Arkansas,Mississippi County,2013,39.8
+162,Arkansas,Monroe County,2013,37.5
+163,Arkansas,Montgomery County,2013,33.8
+164,Arkansas,Nevada County,2013,36
+165,Arkansas,Newton County,2013,34.2
+166,Arkansas,Ouachita County,2013,34.8
+167,Arkansas,Perry County,2013,37.5
+168,Arkansas,Phillips County,2013,45.5
+169,Arkansas,Pike County,2013,37.8
+170,Arkansas,Poinsett County,2013,38.4
+171,Arkansas,Polk County,2013,36.7
+172,Arkansas,Pope County,2013,32.1
+173,Arkansas,Prairie County,2013,36.3
+174,Arkansas,Pulaski County,2013,31.7
+175,Arkansas,Randolph County,2013,35.3
+176,Arkansas,St. Francis County,2013,42.5
+177,Arkansas,Saline County,2013,32.5
+178,Arkansas,Scott County,2013,32.5
+179,Arkansas,Searcy County,2013,35
+180,Arkansas,Sebastian County,2013,36.9
+181,Arkansas,Sevier County,2013,36.7
+182,Arkansas,Sharp County,2013,37.3
+183,Arkansas,Stone County,2013,32.6
+184,Arkansas,Union County,2013,39.4
+185,Arkansas,Van Buren County,2013,35.6
+186,Arkansas,Washington County,2013,30.6
+187,Arkansas,White County,2013,36.3
+188,Arkansas,Woodruff County,2013,35.8
+189,Arkansas,Yell County,2013,37.1
+190,California,Alameda County,2013,20
+191,California,Alpine County,2013,23.4
+192,California,Amador County,2013,25.5
+193,California,Butte County,2013,25.9
+194,California,Calaveras County,2013,23.5
+195,California,Colusa County,2013,25.4
+196,California,Contra Costa County,2013,25
+197,California,Del Norte County,2013,25.5
+198,California,El Dorado County,2013,20.6
+199,California,Fresno County,2013,26.6
+200,California,Glenn County,2013,26.7
+201,California,Humboldt County,2013,25.5
+202,California,Imperial County,2013,26.3
+203,California,Inyo County,2013,23.3
+204,California,Kern County,2013,30.3
+205,California,Kings County,2013,26.4
+206,California,Lake County,2013,26.2
+207,California,Lassen County,2013,23.9
+208,California,Los Angeles County,2013,21.4
+209,California,Madera County,2013,26.5
+210,California,Marin County,2013,18.9
+211,California,Mariposa County,2013,24.4
+212,California,Mendocino County,2013,22.4
+213,California,Merced County,2013,29.5
+214,California,Modoc County,2013,23.2
+215,California,Mono County,2013,22.8
+216,California,Monterey County,2013,22.3
+217,California,Napa County,2013,23.7
+218,California,Nevada County,2013,21.1
+219,California,Orange County,2013,19.7
+220,California,Placer County,2013,21.7
+221,California,Plumas County,2013,23
+222,California,Riverside County,2013,26
+223,California,Sacramento County,2013,27.4
+224,California,San Benito County,2013,23.3
+225,California,San Bernardino County,2013,27.9
+226,California,San Diego County,2013,19.1
+227,California,San Francisco County,2013,16.1
+228,California,San Joaquin County,2013,28.3
+229,California,San Luis Obispo County,2013,24.5
+230,California,San Mateo County,2013,21.1
+231,California,Santa Barbara County,2013,18.2
+232,California,Santa Clara County,2013,19.5
+233,California,Santa Cruz County,2013,20.2
+234,California,Shasta County,2013,26.5
+235,California,Sierra County,2013,22.5
+236,California,Siskiyou County,2013,23.2
+237,California,Solano County,2013,30.1
+238,California,Sonoma County,2013,20.9
+239,California,Stanislaus County,2013,32.6
+240,California,Sutter County,2013,28.7
+241,California,Tehama County,2013,27.2
+242,California,Trinity County,2013,25.1
+243,California,Tulare County,2013,32.6
+244,California,Tuolumne County,2013,20.2
+245,California,Ventura County,2013,20.3
+246,California,Yolo County,2013,22.7
+247,California,Yuba County,2013,24.8
+248,Colorado,Adams County,2013,26.3
+249,Colorado,Alamosa County,2013,23
+250,Colorado,Arapahoe County,2013,21.4
+251,Colorado,Archuleta County,2013,16.5
+252,Colorado,Baca County,2013,19.4
+253,Colorado,Bent County,2013,26.5
+254,Colorado,Boulder County,2013,13.4
+255,Colorado,Broomfield County,2013,17.6
+256,Colorado,Chaffee County,2013,20.5
+257,Colorado,Cheyenne County,2013,23.7
+258,Colorado,Clear Creek County,2013,18.1
+259,Colorado,Conejos County,2013,24.5
+260,Colorado,Costilla County,2013,21.9
+261,Colorado,Crowley County,2013,21.6
+262,Colorado,Custer County,2013,20.5
+263,Colorado,Delta County,2013,20.4
+264,Colorado,Denver County,2013,16.4
+265,Colorado,Dolores County,2013,19.8
+266,Colorado,Douglas County,2013,17
+267,Colorado,Eagle County,2013,11.8
+268,Colorado,Elbert County,2013,19.6
+269,Colorado,El Paso County,2013,22.3
+270,Colorado,Fremont County,2013,22.8
+271,Colorado,Garfield County,2013,20
+272,Colorado,Gilpin County,2013,19.7
+273,Colorado,Grand County,2013,17.4
+274,Colorado,Gunnison County,2013,14.8
+275,Colorado,Hinsdale County,2013,20.5
+276,Colorado,Huerfano County,2013,20.1
+277,Colorado,Jackson County,2013,21.4
+278,Colorado,Jefferson County,2013,18.3
+279,Colorado,Kiowa County,2013,19.5
+280,Colorado,Kit Carson County,2013,27.6
+281,Colorado,Lake County,2013,17.5
+282,Colorado,La Plata County,2013,16.3
+283,Colorado,Larimer County,2013,18.7
+284,Colorado,Las Animas County,2013,21
+285,Colorado,Lincoln County,2013,23.8
+286,Colorado,Logan County,2013,25.4
+287,Colorado,Mesa County,2013,23.5
+288,Colorado,Mineral County,2013,18.1
+289,Colorado,Moffat County,2013,25.8
+290,Colorado,Montezuma County,2013,21.7
+291,Colorado,Montrose County,2013,19.7
+292,Colorado,Morgan County,2013,26.9
+293,Colorado,Otero County,2013,26.9
+294,Colorado,Ouray County,2013,18.6
+295,Colorado,Park County,2013,20.5
+296,Colorado,Phillips County,2013,22.8
+297,Colorado,Pitkin County,2013,14.9
+298,Colorado,Prowers County,2013,26.1
+299,Colorado,Pueblo County,2013,25.9
+300,Colorado,Rio Blanco County,2013,22.6
+301,Colorado,Rio Grande County,2013,23.2
+302,Colorado,Routt County,2013,14.3
+303,Colorado,Saguache County,2013,19.7
+304,Colorado,San Juan County,2013,19.3
+305,Colorado,San Miguel County,2013,16.7
+306,Colorado,Sedgwick County,2013,22.1
+307,Colorado,Summit County,2013,13.1
+308,Colorado,Teller County,2013,20.3
+309,Colorado,Washington County,2013,23.2
+310,Colorado,Weld County,2013,26
+311,Colorado,Yuma County,2013,24.8
+312,Connecticut,Fairfield County,2013,21.4
+313,Connecticut,Hartford County,2013,26.8
+314,Connecticut,Litchfield County,2013,23.9
+315,Connecticut,Middlesex County,2013,24.1
+316,Connecticut,New Haven County,2013,26.5
+317,Connecticut,New London County,2013,27.6
+318,Connecticut,Tolland County,2013,24.8
+319,Connecticut,Windham County,2013,29.6
+320,Delaware,Kent County,2013,32.8
+321,Delaware,New Castle County,2013,27.7
+322,Delaware,Sussex County,2013,31
+323,District of Columbia,District of Columbia,2013,22.4
+324,Florida,Alachua County,2013,25.6
+325,Florida,Baker County,2013,35.8
+326,Florida,Bay County,2013,29.9
+327,Florida,Bradford County,2013,35.9
+328,Florida,Brevard County,2013,25.6
+329,Florida,Broward County,2013,24.4
+330,Florida,Calhoun County,2013,39.4
+331,Florida,Charlotte County,2013,25.7
+332,Florida,Citrus County,2013,26.3
+333,Florida,Clay County,2013,29.7
+334,Florida,Collier County,2013,19.5
+335,Florida,Columbia County,2013,36.3
+336,Florida,DeSoto County,2013,36
+337,Florida,Dixie County,2013,30.6
+338,Florida,Duval County,2013,30.6
+339,Florida,Escambia County,2013,28.9
+340,Florida,Flagler County,2013,24.2
+341,Florida,Franklin County,2013,32.2
+342,Florida,Gadsden County,2013,36.5
+343,Florida,Gilchrist County,2013,31.5
+344,Florida,Glades County,2013,33.1
+345,Florida,Gulf County,2013,30.9
+346,Florida,Hamilton County,2013,33.2
+347,Florida,Hardee County,2013,33.9
+348,Florida,Hendry County,2013,35.2
+349,Florida,Hernando County,2013,32.1
+350,Florida,Highlands County,2013,31
+351,Florida,Hillsborough County,2013,28.3
+352,Florida,Holmes County,2013,31.6
+353,Florida,Indian River County,2013,24.5
+354,Florida,Jackson County,2013,34.7
+355,Florida,Jefferson County,2013,32.2
+356,Florida,Lafayette County,2013,35.3
+357,Florida,Lake County,2013,29.3
+358,Florida,Lee County,2013,24.6
+359,Florida,Leon County,2013,26.4
+360,Florida,Levy County,2013,32.2
+361,Florida,Liberty County,2013,39.6
+362,Florida,Madison County,2013,34.1
+363,Florida,Manatee County,2013,25.3
+364,Florida,Marion County,2013,29.2
+365,Florida,Martin County,2013,21.3
+366,Florida,Miami-Dade County,2013,21
+367,Florida,Monroe County,2013,22
+368,Florida,Nassau County,2013,28.6
+369,Florida,Okaloosa County,2013,26.4
+370,Florida,Okeechobee County,2013,31
+371,Florida,Orange County,2013,24.9
+372,Florida,Osceola County,2013,29.1
+373,Florida,Palm Beach County,2013,21.5
+374,Florida,Pasco County,2013,31.1
+375,Florida,Pinellas County,2013,25.5
+376,Florida,Polk County,2013,32.3
+377,Florida,Putnam County,2013,36.1
+378,Florida,St. Johns County,2013,21.9
+379,Florida,St. Lucie County,2013,27.9
+380,Florida,Santa Rosa County,2013,26.1
+381,Florida,Sarasota County,2013,20.6
+382,Florida,Seminole County,2013,24.6
+383,Florida,Sumter County,2013,26.9
+384,Florida,Suwannee County,2013,33.3
+385,Florida,Taylor County,2013,38.9
+386,Florida,Union County,2013,37.1
+387,Florida,Volusia County,2013,26
+388,Florida,Wakulla County,2013,36.4
+389,Florida,Walton County,2013,27.5
+390,Florida,Washington County,2013,38.5
+391,Georgia,Appling County,2013,34.8
+392,Georgia,Atkinson County,2013,35.3
+393,Georgia,Bacon County,2013,32.7
+394,Georgia,Baker County,2013,30
+395,Georgia,Baldwin County,2013,36.8
+396,Georgia,Banks County,2013,27
+397,Georgia,Barrow County,2013,34.6
+398,Georgia,Bartow County,2013,35.2
+399,Georgia,Ben Hill County,2013,35.3
+400,Georgia,Berrien County,2013,34.7
+401,Georgia,Bibb County,2013,31.3
+402,Georgia,Bleckley County,2013,30.4
+403,Georgia,Brantley County,2013,33.1
+404,Georgia,Brooks County,2013,33.5
+405,Georgia,Bryan County,2013,29.3
+406,Georgia,Bulloch County,2013,33.5
+407,Georgia,Burke County,2013,32
+408,Georgia,Butts County,2013,28.7
+409,Georgia,Calhoun County,2013,34.4
+410,Georgia,Camden County,2013,31.5
+411,Georgia,Candler County,2013,30.3
+412,Georgia,Carroll County,2013,31.7
+413,Georgia,Catoosa County,2013,27.8
+414,Georgia,Charlton County,2013,32
+415,Georgia,Chatham County,2013,31.3
+416,Georgia,Chattahoochee County,2013,27.3
+417,Georgia,Chattooga County,2013,34
+418,Georgia,Cherokee County,2013,26.9
+419,Georgia,Clarke County,2013,25.3
+420,Georgia,Clay County,2013,29.8
+421,Georgia,Clayton County,2013,38
+422,Georgia,Clinch County,2013,29.6
+423,Georgia,Cobb County,2013,22.9
+424,Georgia,Coffee County,2013,34.8
+425,Georgia,Colquitt County,2013,35.2
+426,Georgia,Columbia County,2013,30.3
+427,Georgia,Cook County,2013,31.4
+428,Georgia,Coweta County,2013,26.8
+429,Georgia,Crawford County,2013,27.3
+430,Georgia,Crisp County,2013,31.1
+431,Georgia,Dade County,2013,32.3
+432,Georgia,Dawson County,2013,27.7
+433,Georgia,Decatur County,2013,30
+434,Georgia,DeKalb County,2013,27.3
+435,Georgia,Dodge County,2013,28.5
+436,Georgia,Dooly County,2013,34.7
+437,Georgia,Dougherty County,2013,34.4
+438,Georgia,Douglas County,2013,32.3
+439,Georgia,Early County,2013,31.5
+440,Georgia,Echols County,2013,28.3
+441,Georgia,Effingham County,2013,35.2
+442,Georgia,Elbert County,2013,31.1
+443,Georgia,Emanuel County,2013,36.3
+444,Georgia,Evans County,2013,33.5
+445,Georgia,Fannin County,2013,25.9
+446,Georgia,Fayette County,2013,31.1
+447,Georgia,Floyd County,2013,31
+448,Georgia,Forsyth County,2013,29.4
+449,Georgia,Franklin County,2013,29.5
+450,Georgia,Fulton County,2013,23.9
+451,Georgia,Gilmer County,2013,29.7
+452,Georgia,Glascock County,2013,28.6
+453,Georgia,Glynn County,2013,26.2
+454,Georgia,Gordon County,2013,29.3
+455,Georgia,Grady County,2013,33
+456,Georgia,Greene County,2013,29.7
+457,Georgia,Gwinnett County,2013,29.5
+458,Georgia,Habersham County,2013,31.7
+459,Georgia,Hall County,2013,25.7
+460,Georgia,Hancock County,2013,31.2
+461,Georgia,Haralson County,2013,27.3
+462,Georgia,Harris County,2013,28.4
+463,Georgia,Hart County,2013,29.9
+464,Georgia,Heard County,2013,30.2
+465,Georgia,Henry County,2013,33.1
+466,Georgia,Houston County,2013,31
+467,Georgia,Irwin County,2013,29.2
+468,Georgia,Jackson County,2013,27.4
+469,Georgia,Jasper County,2013,29.3
+470,Georgia,Jeff Davis County,2013,30
+471,Georgia,Jefferson County,2013,35.3
+472,Georgia,Jenkins County,2013,29.9
+473,Georgia,Johnson County,2013,34
+474,Georgia,Jones County,2013,33.5
+475,Georgia,Lamar County,2013,30.6
+476,Georgia,Lanier County,2013,33.2
+477,Georgia,Laurens County,2013,36.2
+478,Georgia,Lee County,2013,31.2
+479,Georgia,Liberty County,2013,34.9
+480,Georgia,Lincoln County,2013,29
+481,Georgia,Long County,2013,31.4
+482,Georgia,Lowndes County,2013,31.3
+483,Georgia,Lumpkin County,2013,30.7
+484,Georgia,McDuffie County,2013,33.4
+485,Georgia,McIntosh County,2013,30.9
+486,Georgia,Macon County,2013,36.4
+487,Georgia,Madison County,2013,31.9
+488,Georgia,Marion County,2013,32.9
+489,Georgia,Meriwether County,2013,34.6
+490,Georgia,Miller County,2013,30.3
+491,Georgia,Mitchell County,2013,33.6
+492,Georgia,Monroe County,2013,31.9
+493,Georgia,Montgomery County,2013,36.2
+494,Georgia,Morgan County,2013,26.5
+495,Georgia,Murray County,2013,32.5
+496,Georgia,Muscogee County,2013,28.8
+497,Georgia,Newton County,2013,32.9
+498,Georgia,Oconee County,2013,28.8
+499,Georgia,Oglethorpe County,2013,30.1
+500,Georgia,Paulding County,2013,28.6
+501,Georgia,Peach County,2013,34.4
+502,Georgia,Pickens County,2013,26.7
+503,Georgia,Pierce County,2013,28.5
+504,Georgia,Pike County,2013,26.2
+505,Georgia,Polk County,2013,34.5
+506,Georgia,Pulaski County,2013,31.7
+507,Georgia,Putnam County,2013,30
+508,Georgia,Quitman County,2013,34
+509,Georgia,Rabun County,2013,29.4
+510,Georgia,Randolph County,2013,33.7
+511,Georgia,Richmond County,2013,34.1
+512,Georgia,Rockdale County,2013,36
+513,Georgia,Schley County,2013,30.4
+514,Georgia,Screven County,2013,33
+515,Georgia,Seminole County,2013,30.7
+516,Georgia,Spalding County,2013,32.4
+517,Georgia,Stephens County,2013,30.1
+518,Georgia,Stewart County,2013,34.2
+519,Georgia,Sumter County,2013,32.7
+520,Georgia,Talbot County,2013,33.3
+521,Georgia,Taliaferro County,2013,31.4
+522,Georgia,Tattnall County,2013,33.1
+523,Georgia,Taylor County,2013,28.8
+524,Georgia,Telfair County,2013,30.9
+525,Georgia,Terrell County,2013,31.6
+526,Georgia,Thomas County,2013,34
+527,Georgia,Tift County,2013,34
+528,Georgia,Toombs County,2013,31.5
+529,Georgia,Towns County,2013,27.4
+530,Georgia,Treutlen County,2013,32.9
+531,Georgia,Troup County,2013,30
+532,Georgia,Turner County,2013,34.6
+533,Georgia,Twiggs County,2013,32.8
+534,Georgia,Union County,2013,27.2
+535,Georgia,Upson County,2013,32
+536,Georgia,Walker County,2013,32.1
+537,Georgia,Walton County,2013,34.4
+538,Georgia,Ware County,2013,35.5
+539,Georgia,Warren County,2013,32
+540,Georgia,Washington County,2013,32.2
+541,Georgia,Wayne County,2013,31.8
+542,Georgia,Webster County,2013,32.1
+543,Georgia,Wheeler County,2013,31.9
+544,Georgia,White County,2013,28.6
+545,Georgia,Whitfield County,2013,33.5
+546,Georgia,Wilcox County,2013,31.5
+547,Georgia,Wilkes County,2013,32.9
+548,Georgia,Wilkinson County,2013,34.5
+549,Georgia,Worth County,2013,36.7
+550,Hawaii,Hawaii County,2013,22.7
+551,Hawaii,Honolulu County,2013,22.3
+552,Hawaii,Kalawao County,2013,21.5
+553,Hawaii,Kauai County,2013,20.6
+554,Hawaii,Maui County,2013,22.4
+555,Idaho,Ada County,2013,25.4
+556,Idaho,Adams County,2013,27.6
+557,Idaho,Bannock County,2013,28.1
+558,Idaho,Bear Lake County,2013,28.7
+559,Idaho,Benewah County,2013,30.1
+560,Idaho,Bingham County,2013,33.3
+561,Idaho,Blaine County,2013,19.2
+562,Idaho,Boise County,2013,22.4
+563,Idaho,Bonner County,2013,24.7
+564,Idaho,Bonneville County,2013,29.4
+565,Idaho,Boundary County,2013,27.3
+566,Idaho,Butte County,2013,28.5
+567,Idaho,Camas County,2013,25.7
+568,Idaho,Canyon County,2013,33.4
+569,Idaho,Caribou County,2013,27.5
+570,Idaho,Cassia County,2013,30.5
+571,Idaho,Clark County,2013,31.4
+572,Idaho,Clearwater County,2013,30.6
+573,Idaho,Custer County,2013,26.3
+574,Idaho,Elmore County,2013,29.8
+575,Idaho,Franklin County,2013,30.7
+576,Idaho,Fremont County,2013,28.9
+577,Idaho,Gem County,2013,28.5
+578,Idaho,Gooding County,2013,30
+579,Idaho,Idaho County,2013,25.7
+580,Idaho,Jefferson County,2013,32.7
+581,Idaho,Jerome County,2013,33.3
+582,Idaho,Kootenai County,2013,25
+583,Idaho,Latah County,2013,24.3
+584,Idaho,Lemhi County,2013,26.8
+585,Idaho,Lewis County,2013,29.7
+586,Idaho,Lincoln County,2013,32.3
+587,Idaho,Madison County,2013,24.5
+588,Idaho,Minidoka County,2013,34.2
+589,Idaho,Nez Perce County,2013,30.9
+590,Idaho,Oneida County,2013,31.3
+591,Idaho,Owyhee County,2013,30.4
+592,Idaho,Payette County,2013,33.3
+593,Idaho,Power County,2013,32.1
+594,Idaho,Shoshone County,2013,31.1
+595,Idaho,Teton County,2013,24.1
+596,Idaho,Twin Falls County,2013,27.6
+597,Idaho,Valley County,2013,24.1
+598,Idaho,Washington County,2013,30.3
+599,Illinois,Adams County,2013,37
+600,Illinois,Alexander County,2013,28.4
+601,Illinois,Bond County,2013,29.6
+602,Illinois,Boone County,2013,33.7
+603,Illinois,Brown County,2013,27.6
+604,Illinois,Bureau County,2013,29.1
+605,Illinois,Calhoun County,2013,29.1
+606,Illinois,Carroll County,2013,28.6
+607,Illinois,Cass County,2013,28
+608,Illinois,Champaign County,2013,25.1
+609,Illinois,Christian County,2013,31.7
+610,Illinois,Clark County,2013,32.7
+611,Illinois,Clay County,2013,31
+612,Illinois,Clinton County,2013,29.5
+613,Illinois,Coles County,2013,26.3
+614,Illinois,Cook County,2013,25.3
+615,Illinois,Crawford County,2013,31.3
+616,Illinois,Cumberland County,2013,27.8
+617,Illinois,DeKalb County,2013,28.3
+618,Illinois,De Witt County,2013,30.5
+619,Illinois,Douglas County,2013,30.5
+620,Illinois,DuPage County,2013,23
+621,Illinois,Edgar County,2013,30.3
+622,Illinois,Edwards County,2013,31.3
+623,Illinois,Effingham County,2013,31.8
+624,Illinois,Fayette County,2013,33
+625,Illinois,Ford County,2013,28.2
+626,Illinois,Franklin County,2013,30.2
+627,Illinois,Fulton County,2013,30.7
+628,Illinois,Gallatin County,2013,28.4
+629,Illinois,Greene County,2013,28.7
+630,Illinois,Grundy County,2013,30.4
+631,Illinois,Hamilton County,2013,28.2
+632,Illinois,Hancock County,2013,28.6
+633,Illinois,Hardin County,2013,30.6
+634,Illinois,Henderson County,2013,30.4
+635,Illinois,Henry County,2013,30.5
+636,Illinois,Iroquois County,2013,33.9
+637,Illinois,Jackson County,2013,31.5
+638,Illinois,Jasper County,2013,30.2
+639,Illinois,Jefferson County,2013,30.2
+640,Illinois,Jersey County,2013,33
+641,Illinois,Jo Daviess County,2013,29.5
+642,Illinois,Johnson County,2013,29.4
+643,Illinois,Kane County,2013,25.3
+644,Illinois,Kankakee County,2013,30.1
+645,Illinois,Kendall County,2013,33.7
+646,Illinois,Knox County,2013,26.2
+647,Illinois,Lake County,2013,28.4
+648,Illinois,LaSalle County,2013,27.1
+649,Illinois,Lawrence County,2013,28.9
+650,Illinois,Lee County,2013,32.6
+651,Illinois,Livingston County,2013,29.2
+652,Illinois,Logan County,2013,29.2
+653,Illinois,McDonough County,2013,26.8
+654,Illinois,McHenry County,2013,27.7
+655,Illinois,McLean County,2013,29.3
+656,Illinois,Macon County,2013,29.7
+657,Illinois,Macoupin County,2013,31
+658,Illinois,Madison County,2013,32.3
+659,Illinois,Marion County,2013,33.5
+660,Illinois,Marshall County,2013,29.1
+661,Illinois,Mason County,2013,31.7
+662,Illinois,Massac County,2013,30.7
+663,Illinois,Menard County,2013,28.3
+664,Illinois,Mercer County,2013,31.2
+665,Illinois,Monroe County,2013,33.2
+666,Illinois,Montgomery County,2013,31.3
+667,Illinois,Morgan County,2013,28.8
+668,Illinois,Moultrie County,2013,28.6
+669,Illinois,Ogle County,2013,31.2
+670,Illinois,Peoria County,2013,28.8
+671,Illinois,Perry County,2013,29.1
+672,Illinois,Piatt County,2013,29
+673,Illinois,Pike County,2013,32.6
+674,Illinois,Pope County,2013,29.5
+675,Illinois,Pulaski County,2013,27.3
+676,Illinois,Putnam County,2013,29.9
+677,Illinois,Randolph County,2013,27.7
+678,Illinois,Richland County,2013,28.8
+679,Illinois,Rock Island County,2013,31.7
+680,Illinois,St. Clair County,2013,33.2
+681,Illinois,Saline County,2013,30.1
+682,Illinois,Sangamon County,2013,28.5
+683,Illinois,Schuyler County,2013,31.7
+684,Illinois,Scott County,2013,30.4
+685,Illinois,Shelby County,2013,30.6
+686,Illinois,Stark County,2013,30.2
+687,Illinois,Stephenson County,2013,32.9
+688,Illinois,Tazewell County,2013,30.6
+689,Illinois,Union County,2013,28.2
+690,Illinois,Vermilion County,2013,35.4
+691,Illinois,Wabash County,2013,32.2
+692,Illinois,Warren County,2013,30.5
+693,Illinois,Washington County,2013,28.6
+694,Illinois,Wayne County,2013,29.2
+695,Illinois,White County,2013,28.7
+696,Illinois,Whiteside County,2013,28.7
+697,Illinois,Will County,2013,28
+698,Illinois,Williamson County,2013,31.6
+699,Illinois,Winnebago County,2013,33.9
+700,Illinois,Woodford County,2013,30.8
+701,Indiana,Adams County,2013,32.8
+702,Indiana,Allen County,2013,30.1
+703,Indiana,Bartholomew County,2013,29.5
+704,Indiana,Benton County,2013,32.6
+705,Indiana,Blackford County,2013,36
+706,Indiana,Boone County,2013,27.8
+707,Indiana,Brown County,2013,30.6
+708,Indiana,Carroll County,2013,26.9
+709,Indiana,Cass County,2013,33.7
+710,Indiana,Clark County,2013,33.3
+711,Indiana,Clay County,2013,33.1
+712,Indiana,Clinton County,2013,30.9
+713,Indiana,Crawford County,2013,33
+714,Indiana,Daviess County,2013,37.6
+715,Indiana,Dearborn County,2013,32.5
+716,Indiana,Decatur County,2013,32.7
+717,Indiana,DeKalb County,2013,32.8
+718,Indiana,Delaware County,2013,31.5
+719,Indiana,Dubois County,2013,29.5
+720,Indiana,Elkhart County,2013,32.8
+721,Indiana,Fayette County,2013,33
+722,Indiana,Floyd County,2013,30.1
+723,Indiana,Fountain County,2013,29.8
+724,Indiana,Franklin County,2013,26.2
+725,Indiana,Fulton County,2013,37.8
+726,Indiana,Gibson County,2013,32.1
+727,Indiana,Grant County,2013,37.3
+728,Indiana,Greene County,2013,33.1
+729,Indiana,Hamilton County,2013,25.9
+730,Indiana,Hancock County,2013,34.8
+731,Indiana,Harrison County,2013,36
+732,Indiana,Hendricks County,2013,31.8
+733,Indiana,Henry County,2013,36.7
+734,Indiana,Howard County,2013,31.4
+735,Indiana,Huntington County,2013,32.6
+736,Indiana,Jackson County,2013,36.9
+737,Indiana,Jasper County,2013,29.6
+738,Indiana,Jay County,2013,34
+739,Indiana,Jefferson County,2013,35
+740,Indiana,Jennings County,2013,33
+741,Indiana,Johnson County,2013,30.2
+742,Indiana,Knox County,2013,32.3
+743,Indiana,Kosciusko County,2013,33.2
+744,Indiana,LaGrange County,2013,34.2
+745,Indiana,Lake County,2013,33.9
+746,Indiana,LaPorte County,2013,35
+747,Indiana,Lawrence County,2013,38.2
+748,Indiana,Madison County,2013,33.4
+749,Indiana,Marion County,2013,32.4
+750,Indiana,Marshall County,2013,30.8
+751,Indiana,Martin County,2013,35.8
+752,Indiana,Miami County,2013,35.7
+753,Indiana,Monroe County,2013,22.1
+754,Indiana,Montgomery County,2013,32.7
+755,Indiana,Morgan County,2013,33.2
+756,Indiana,Newton County,2013,35.3
+757,Indiana,Noble County,2013,31.8
+758,Indiana,Ohio County,2013,30.4
+759,Indiana,Orange County,2013,35.4
+760,Indiana,Owen County,2013,34
+761,Indiana,Parke County,2013,33.6
+762,Indiana,Perry County,2013,32.8
+763,Indiana,Pike County,2013,36.4
+764,Indiana,Porter County,2013,31.9
+765,Indiana,Posey County,2013,29.1
+766,Indiana,Pulaski County,2013,31.5
+767,Indiana,Putnam County,2013,31.5
+768,Indiana,Randolph County,2013,35.6
+769,Indiana,Ripley County,2013,32.7
+770,Indiana,Rush County,2013,32.6
+771,Indiana,St. Joseph County,2013,30
+772,Indiana,Scott County,2013,29.5
+773,Indiana,Shelby County,2013,33.1
+774,Indiana,Spencer County,2013,30.5
+775,Indiana,Starke County,2013,36.1
+776,Indiana,Steuben County,2013,33.7
+777,Indiana,Sullivan County,2013,32.9
+778,Indiana,Switzerland County,2013,32
+779,Indiana,Tippecanoe County,2013,26.4
+780,Indiana,Tipton County,2013,31.1
+781,Indiana,Union County,2013,30
+782,Indiana,Vanderburgh County,2013,33.3
+783,Indiana,Vermillion County,2013,33.1
+784,Indiana,Vigo County,2013,32.8
+785,Indiana,Wabash County,2013,31.6
+786,Indiana,Warren County,2013,32.1
+787,Indiana,Warrick County,2013,29.4
+788,Indiana,Washington County,2013,30.6
+789,Indiana,Wayne County,2013,29.6
+790,Indiana,Wells County,2013,28.4
+791,Indiana,White County,2013,34.7
+792,Indiana,Whitley County,2013,32
+793,Iowa,Adair County,2013,32.4
+794,Iowa,Adams County,2013,30.8
+795,Iowa,Allamakee County,2013,33.6
+796,Iowa,Appanoose County,2013,35.4
+797,Iowa,Audubon County,2013,31.2
+798,Iowa,Benton County,2013,34.4
+799,Iowa,Black Hawk County,2013,29.9
+800,Iowa,Boone County,2013,32.4
+801,Iowa,Bremer County,2013,32.4
+802,Iowa,Buchanan County,2013,35.2
+803,Iowa,Buena Vista County,2013,33
+804,Iowa,Butler County,2013,33.8
+805,Iowa,Calhoun County,2013,32.4
+806,Iowa,Carroll County,2013,30.7
+807,Iowa,Cass County,2013,35.2
+808,Iowa,Cedar County,2013,32.4
+809,Iowa,Cerro Gordo County,2013,33.2
+810,Iowa,Cherokee County,2013,37.5
+811,Iowa,Chickasaw County,2013,32.7
+812,Iowa,Clarke County,2013,30.5
+813,Iowa,Clay County,2013,33.8
+814,Iowa,Clayton County,2013,32.1
+815,Iowa,Clinton County,2013,33.4
+816,Iowa,Crawford County,2013,34.2
+817,Iowa,Dallas County,2013,29.8
+818,Iowa,Davis County,2013,32.7
+819,Iowa,Decatur County,2013,33.1
+820,Iowa,Delaware County,2013,33.9
+821,Iowa,Des Moines County,2013,31.3
+822,Iowa,Dickinson County,2013,33.4
+823,Iowa,Dubuque County,2013,28.5
+824,Iowa,Emmet County,2013,33.2
+825,Iowa,Fayette County,2013,37.7
+826,Iowa,Floyd County,2013,31
+827,Iowa,Franklin County,2013,32.6
+828,Iowa,Fremont County,2013,32.9
+829,Iowa,Greene County,2013,29.6
+830,Iowa,Grundy County,2013,31.7
+831,Iowa,Guthrie County,2013,35.9
+832,Iowa,Hamilton County,2013,30.6
+833,Iowa,Hancock County,2013,35.4
+834,Iowa,Hardin County,2013,34.8
+835,Iowa,Harrison County,2013,32.3
+836,Iowa,Henry County,2013,34.6
+837,Iowa,Howard County,2013,31.1
+838,Iowa,Humboldt County,2013,31.8
+839,Iowa,Ida County,2013,28.2
+840,Iowa,Iowa County,2013,30.7
+841,Iowa,Jackson County,2013,33.1
+842,Iowa,Jasper County,2013,32.2
+843,Iowa,Jefferson County,2013,27.5
+844,Iowa,Johnson County,2013,23
+845,Iowa,Jones County,2013,37.6
+846,Iowa,Keokuk County,2013,29.9
+847,Iowa,Kossuth County,2013,32.7
+848,Iowa,Lee County,2013,31.9
+849,Iowa,Linn County,2013,31
+850,Iowa,Louisa County,2013,37.4
+851,Iowa,Lucas County,2013,33.8
+852,Iowa,Lyon County,2013,31.9
+853,Iowa,Madison County,2013,34.2
+854,Iowa,Mahaska County,2013,31.9
+855,Iowa,Marion County,2013,33.1
+856,Iowa,Marshall County,2013,34.7
+857,Iowa,Mills County,2013,34.7
+858,Iowa,Mitchell County,2013,30.3
+859,Iowa,Monona County,2013,32.8
+860,Iowa,Monroe County,2013,32.4
+861,Iowa,Montgomery County,2013,37.6
+862,Iowa,Muscatine County,2013,34.2
+863,Iowa,O'Brien County,2013,31.6
+864,Iowa,Osceola County,2013,34.4
+865,Iowa,Page County,2013,35.3
+866,Iowa,Palo Alto County,2013,35.7
+867,Iowa,Plymouth County,2013,32.2
+868,Iowa,Pocahontas County,2013,31.9
+869,Iowa,Polk County,2013,29.2
+870,Iowa,Pottawattamie County,2013,36
+871,Iowa,Poweshiek County,2013,32.1
+872,Iowa,Ringgold County,2013,34.9
+873,Iowa,Sac County,2013,33
+874,Iowa,Scott County,2013,31.8
+875,Iowa,Shelby County,2013,29.4
+876,Iowa,Sioux County,2013,29
+877,Iowa,Story County,2013,27.1
+878,Iowa,Tama County,2013,31.3
+879,Iowa,Taylor County,2013,30.9
+880,Iowa,Union County,2013,37.8
+881,Iowa,Van Buren County,2013,35.7
+882,Iowa,Wapello County,2013,35.6
+883,Iowa,Warren County,2013,31.1
+884,Iowa,Washington County,2013,31.5
+885,Iowa,Wayne County,2013,33.3
+886,Iowa,Webster County,2013,31.1
+887,Iowa,Winnebago County,2013,28.6
+888,Iowa,Winneshiek County,2013,25.4
+889,Iowa,Woodbury County,2013,34.3
+890,Iowa,Worth County,2013,33.7
+891,Iowa,Wright County,2013,34.4
+892,Kansas,Allen County,2013,34.2
+893,Kansas,Anderson County,2013,33.3
+894,Kansas,Atchison County,2013,33.1
+895,Kansas,Barber County,2013,36.7
+896,Kansas,Barton County,2013,35.4
+897,Kansas,Bourbon County,2013,33.9
+898,Kansas,Brown County,2013,29.6
+899,Kansas,Butler County,2013,31.9
+900,Kansas,Chase County,2013,28.3
+901,Kansas,Chautauqua County,2013,34.1
+902,Kansas,Cherokee County,2013,37
+903,Kansas,Cheyenne County,2013,33.5
+904,Kansas,Clark County,2013,31.2
+905,Kansas,Clay County,2013,36.2
+906,Kansas,Cloud County,2013,29.9
+907,Kansas,Coffey County,2013,30.5
+908,Kansas,Comanche County,2013,33.6
+909,Kansas,Cowley County,2013,36
+910,Kansas,Crawford County,2013,33
+911,Kansas,Decatur County,2013,36.1
+912,Kansas,Dickinson County,2013,31.9
+913,Kansas,Doniphan County,2013,32.1
+914,Kansas,Douglas County,2013,24.2
+915,Kansas,Edwards County,2013,32.9
+916,Kansas,Elk County,2013,32.5
+917,Kansas,Ellis County,2013,31.6
+918,Kansas,Ellsworth County,2013,33.3
+919,Kansas,Finney County,2013,35.2
+920,Kansas,Ford County,2013,30.6
+921,Kansas,Franklin County,2013,33.8
+922,Kansas,Geary County,2013,32.7
+923,Kansas,Gove County,2013,30.2
+924,Kansas,Graham County,2013,28.9
+925,Kansas,Grant County,2013,35.6
+926,Kansas,Gray County,2013,36
+927,Kansas,Greeley County,2013,32.6
+928,Kansas,Greenwood County,2013,32.7
+929,Kansas,Hamilton County,2013,37.1
+930,Kansas,Harper County,2013,34.2
+931,Kansas,Harvey County,2013,31
+932,Kansas,Haskell County,2013,33.9
+933,Kansas,Hodgeman County,2013,32
+934,Kansas,Jackson County,2013,33.4
+935,Kansas,Jefferson County,2013,29.9
+936,Kansas,Jewell County,2013,29.6
+937,Kansas,Johnson County,2013,24.8
+938,Kansas,Kearny County,2013,28.7
+939,Kansas,Kingman County,2013,32.2
+940,Kansas,Kiowa County,2013,32.8
+941,Kansas,Labette County,2013,34
+942,Kansas,Lane County,2013,30.8
+943,Kansas,Leavenworth County,2013,32.8
+944,Kansas,Lincoln County,2013,31.2
+945,Kansas,Linn County,2013,31.6
+946,Kansas,Logan County,2013,31.1
+947,Kansas,Lyon County,2013,34.7
+948,Kansas,McPherson County,2013,29.2
+949,Kansas,Marion County,2013,30.9
+950,Kansas,Marshall County,2013,32.6
+951,Kansas,Meade County,2013,27
+952,Kansas,Miami County,2013,34.1
+953,Kansas,Mitchell County,2013,32.1
+954,Kansas,Montgomery County,2013,35.1
+955,Kansas,Morris County,2013,35.1
+956,Kansas,Morton County,2013,31.9
+957,Kansas,Nemaha County,2013,30.4
+958,Kansas,Neosho County,2013,33.5
+959,Kansas,Ness County,2013,31.1
+960,Kansas,Norton County,2013,32.4
+961,Kansas,Osage County,2013,37.1
+962,Kansas,Osborne County,2013,33.2
+963,Kansas,Ottawa County,2013,37.9
+964,Kansas,Pawnee County,2013,30.3
+965,Kansas,Phillips County,2013,28.8
+966,Kansas,Pottawatomie County,2013,31.3
+967,Kansas,Pratt County,2013,33.8
+968,Kansas,Rawlins County,2013,32.3
+969,Kansas,Reno County,2013,35.7
+970,Kansas,Republic County,2013,30.9
+971,Kansas,Rice County,2013,32.6
+972,Kansas,Riley County,2013,23.8
+973,Kansas,Rooks County,2013,32.8
+974,Kansas,Rush County,2013,32.6
+975,Kansas,Russell County,2013,30.4
+976,Kansas,Saline County,2013,35.1
+977,Kansas,Scott County,2013,32.1
+978,Kansas,Sedgwick County,2013,31.4
+979,Kansas,Seward County,2013,38.6
+980,Kansas,Shawnee County,2013,32.9
+981,Kansas,Sheridan County,2013,31.5
+982,Kansas,Sherman County,2013,29.9
+983,Kansas,Smith County,2013,34.1
+984,Kansas,Stafford County,2013,32.5
+985,Kansas,Stanton County,2013,31.3
+986,Kansas,Stevens County,2013,34.8
+987,Kansas,Sumner County,2013,31.1
+988,Kansas,Thomas County,2013,35
+989,Kansas,Trego County,2013,29.7
+990,Kansas,Wabaunsee County,2013,30.9
+991,Kansas,Wallace County,2013,33.1
+992,Kansas,Washington County,2013,30.7
+993,Kansas,Wichita County,2013,29.4
+994,Kansas,Wilson County,2013,32.9
+995,Kansas,Woodson County,2013,33.4
+996,Kansas,Wyandotte County,2013,36.2
+997,Kentucky,Adair County,2013,34.3
+998,Kentucky,Allen County,2013,33.9
+999,Kentucky,Anderson County,2013,34.6
+1000,Kentucky,Ballard County,2013,34.2
+1001,Kentucky,Barren County,2013,31
+1002,Kentucky,Bath County,2013,30.4
+1003,Kentucky,Bell County,2013,37.9
+1004,Kentucky,Boone County,2013,32.5
+1005,Kentucky,Bourbon County,2013,34.1
+1006,Kentucky,Boyd County,2013,38.5
+1007,Kentucky,Boyle County,2013,32.2
+1008,Kentucky,Bracken County,2013,32.4
+1009,Kentucky,Breathitt County,2013,41.6
+1010,Kentucky,Breckinridge County,2013,36.6
+1011,Kentucky,Bullitt County,2013,32.8
+1012,Kentucky,Butler County,2013,33.2
+1013,Kentucky,Caldwell County,2013,35
+1014,Kentucky,Calloway County,2013,30.1
+1015,Kentucky,Campbell County,2013,31.6
+1016,Kentucky,Carlisle County,2013,33.4
+1017,Kentucky,Carroll County,2013,35.3
+1018,Kentucky,Carter County,2013,38.9
+1019,Kentucky,Casey County,2013,36.4
+1020,Kentucky,Christian County,2013,36.5
+1021,Kentucky,Clark County,2013,30.6
+1022,Kentucky,Clay County,2013,38
+1023,Kentucky,Clinton County,2013,34.9
+1024,Kentucky,Crittenden County,2013,33.8
+1025,Kentucky,Cumberland County,2013,31.8
+1026,Kentucky,Daviess County,2013,30.4
+1027,Kentucky,Edmonson County,2013,31.2
+1028,Kentucky,Elliott County,2013,33.7
+1029,Kentucky,Estill County,2013,35.1
+1030,Kentucky,Fayette County,2013,27.3
+1031,Kentucky,Fleming County,2013,34.5
+1032,Kentucky,Floyd County,2013,37.6
+1033,Kentucky,Franklin County,2013,33.2
+1034,Kentucky,Fulton County,2013,32
+1035,Kentucky,Gallatin County,2013,35.8
+1036,Kentucky,Garrard County,2013,30.5
+1037,Kentucky,Grant County,2013,36.3
+1038,Kentucky,Graves County,2013,30.1
+1039,Kentucky,Grayson County,2013,36.5
+1040,Kentucky,Green County,2013,38.1
+1041,Kentucky,Greenup County,2013,39.8
+1042,Kentucky,Hancock County,2013,34.5
+1043,Kentucky,Hardin County,2013,32.9
+1044,Kentucky,Harlan County,2013,36.5
+1045,Kentucky,Harrison County,2013,30.1
+1046,Kentucky,Hart County,2013,37.1
+1047,Kentucky,Henderson County,2013,32.6
+1048,Kentucky,Henry County,2013,31.6
+1049,Kentucky,Hickman County,2013,35.2
+1050,Kentucky,Hopkins County,2013,35
+1051,Kentucky,Jackson County,2013,37.5
+1052,Kentucky,Jefferson County,2013,31.6
+1053,Kentucky,Jessamine County,2013,31.5
+1054,Kentucky,Johnson County,2013,37.2
+1055,Kentucky,Kenton County,2013,28.5
+1056,Kentucky,Knott County,2013,40.2
+1057,Kentucky,Knox County,2013,39.3
+1058,Kentucky,Larue County,2013,33.6
+1059,Kentucky,Laurel County,2013,37.8
+1060,Kentucky,Lawrence County,2013,42.2
+1061,Kentucky,Lee County,2013,33.9
+1062,Kentucky,Leslie County,2013,43.2
+1063,Kentucky,Letcher County,2013,38.6
+1064,Kentucky,Lewis County,2013,38.3
+1065,Kentucky,Lincoln County,2013,30.8
+1066,Kentucky,Livingston County,2013,29.7
+1067,Kentucky,Logan County,2013,35.2
+1068,Kentucky,Lyon County,2013,33.3
+1069,Kentucky,McCracken County,2013,33.7
+1070,Kentucky,McCreary County,2013,34.3
+1071,Kentucky,McLean County,2013,36.8
+1072,Kentucky,Madison County,2013,32.2
+1073,Kentucky,Magoffin County,2013,33.7
+1074,Kentucky,Marion County,2013,30.6
+1075,Kentucky,Marshall County,2013,34.1
+1076,Kentucky,Martin County,2013,39.3
+1077,Kentucky,Mason County,2013,30.1
+1078,Kentucky,Meade County,2013,35.9
+1079,Kentucky,Menifee County,2013,33.3
+1080,Kentucky,Mercer County,2013,35.8
+1081,Kentucky,Metcalfe County,2013,33.8
+1082,Kentucky,Monroe County,2013,29.9
+1083,Kentucky,Montgomery County,2013,32.2
+1084,Kentucky,Morgan County,2013,35.5
+1085,Kentucky,Muhlenberg County,2013,37.8
+1086,Kentucky,Nelson County,2013,32.4
+1087,Kentucky,Nicholas County,2013,32.5
+1088,Kentucky,Ohio County,2013,37.2
+1089,Kentucky,Oldham County,2013,28
+1090,Kentucky,Owen County,2013,30
+1091,Kentucky,Owsley County,2013,33.6
+1092,Kentucky,Pendleton County,2013,32.4
+1093,Kentucky,Perry County,2013,37
+1094,Kentucky,Pike County,2013,38.9
+1095,Kentucky,Powell County,2013,36.3
+1096,Kentucky,Pulaski County,2013,33.6
+1097,Kentucky,Robertson County,2013,34.6
+1098,Kentucky,Rockcastle County,2013,36
+1099,Kentucky,Rowan County,2013,34.4
+1100,Kentucky,Russell County,2013,34.6
+1101,Kentucky,Scott County,2013,29.4
+1102,Kentucky,Shelby County,2013,33
+1103,Kentucky,Simpson County,2013,35.4
+1104,Kentucky,Spencer County,2013,30.3
+1105,Kentucky,Taylor County,2013,35.4
+1106,Kentucky,Todd County,2013,33.7
+1107,Kentucky,Trigg County,2013,33.4
+1108,Kentucky,Trimble County,2013,34
+1109,Kentucky,Union County,2013,30.7
+1110,Kentucky,Warren County,2013,31.6
+1111,Kentucky,Washington County,2013,32.9
+1112,Kentucky,Wayne County,2013,37.1
+1113,Kentucky,Webster County,2013,35.6
+1114,Kentucky,Whitley County,2013,36.3
+1115,Kentucky,Wolfe County,2013,32.3
+1116,Kentucky,Woodford County,2013,29.5
+1117,Louisiana,Acadia Parish,2013,33.1
+1118,Louisiana,Allen Parish,2013,34.4
+1119,Louisiana,Ascension Parish,2013,31.3
+1120,Louisiana,Assumption Parish,2013,34.8
+1121,Louisiana,Avoyelles Parish,2013,37
+1122,Louisiana,Beauregard Parish,2013,35.8
+1123,Louisiana,Bienville Parish,2013,38.2
+1124,Louisiana,Bossier Parish,2013,34.7
+1125,Louisiana,Caddo Parish,2013,34.3
+1126,Louisiana,Calcasieu Parish,2013,32.3
+1127,Louisiana,Caldwell Parish,2013,36.3
+1128,Louisiana,Cameron Parish,2013,31.5
+1129,Louisiana,Catahoula Parish,2013,35.3
+1130,Louisiana,Claiborne Parish,2013,37
+1131,Louisiana,Concordia Parish,2013,38.3
+1132,Louisiana,De Soto Parish,2013,38.9
+1133,Louisiana,East Baton Rouge Parish,2013,32.9
+1134,Louisiana,East Carroll Parish,2013,42.1
+1135,Louisiana,East Feliciana Parish,2013,42.1
+1136,Louisiana,Evangeline Parish,2013,41.9
+1137,Louisiana,Franklin Parish,2013,38
+1138,Louisiana,Grant Parish,2013,33.8
+1139,Louisiana,Iberia Parish,2013,36.1
+1140,Louisiana,Iberville Parish,2013,39.7
+1141,Louisiana,Jackson Parish,2013,34.8
+1142,Louisiana,Jefferson Parish,2013,35.4
+1143,Louisiana,Jefferson Davis Parish,2013,36.3
+1144,Louisiana,Lafayette Parish,2013,31.1
+1145,Louisiana,Lafourche Parish,2013,36.9
+1146,Louisiana,La Salle Parish,2013,33.2
+1147,Louisiana,Lincoln Parish,2013,37.3
+1148,Louisiana,Livingston Parish,2013,34.4
+1149,Louisiana,Madison Parish,2013,41.8
+1150,Louisiana,Morehouse Parish,2013,39.4
+1151,Louisiana,Natchitoches Parish,2013,34.7
+1152,Louisiana,Orleans Parish,2013,31.9
+1153,Louisiana,Ouachita Parish,2013,35.7
+1154,Louisiana,Plaquemines Parish,2013,33.5
+1155,Louisiana,Pointe Coupee Parish,2013,35.3
+1156,Louisiana,Rapides Parish,2013,35.7
+1157,Louisiana,Red River Parish,2013,40.3
+1158,Louisiana,Richland Parish,2013,37.1
+1159,Louisiana,Sabine Parish,2013,39.1
+1160,Louisiana,St. Bernard Parish,2013,35.5
+1161,Louisiana,St. Charles Parish,2013,35.9
+1162,Louisiana,St. Helena Parish,2013,40.6
+1163,Louisiana,St. James Parish,2013,37
+1164,Louisiana,St. John the Baptist Pa,2013,35.8
+1165,Louisiana,St. Landry Parish,2013,39.6
+1166,Louisiana,St. Martin Parish,2013,34.2
+1167,Louisiana,St. Mary Parish,2013,38
+1168,Louisiana,St. Tammany Parish,2013,27.8
+1169,Louisiana,Tangipahoa Parish,2013,39.1
+1170,Louisiana,Tensas Parish,2013,34.8
+1171,Louisiana,Terrebonne Parish,2013,39.5
+1172,Louisiana,Union Parish,2013,34.4
+1173,Louisiana,Vermilion Parish,2013,31.2
+1174,Louisiana,Vernon Parish,2013,36.6
+1175,Louisiana,Washington Parish,2013,37.4
+1176,Louisiana,Webster Parish,2013,35.8
+1177,Louisiana,West Baton Rouge Parish,2013,40.2
+1178,Louisiana,West Carroll Parish,2013,36
+1179,Louisiana,West Feliciana Parish,2013,34.5
+1180,Louisiana,Winn Parish,2013,37.7
+1181,Maine,Androscoggin County,2013,33.2
+1182,Maine,Aroostook County,2013,34.1
+1183,Maine,Cumberland County,2013,22.7
+1184,Maine,Franklin County,2013,30.2
+1185,Maine,Hancock County,2013,24.3
+1186,Maine,Kennebec County,2013,30.9
+1187,Maine,Knox County,2013,23.1
+1188,Maine,Lincoln County,2013,24.6
+1189,Maine,Oxford County,2013,31.4
+1190,Maine,Penobscot County,2013,30.3
+1191,Maine,Piscataquis County,2013,33.3
+1192,Maine,Sagadahoc County,2013,25.1
+1193,Maine,Somerset County,2013,35
+1194,Maine,Waldo County,2013,28.3
+1195,Maine,Washington County,2013,28.5
+1196,Maine,York County,2013,27.6
+1197,Maryland,Allegany County,2013,32.3
+1198,Maryland,Anne Arundel County,2013,29.1
+1199,Maryland,Baltimore County,2013,28.8
+1200,Maryland,Calvert County,2013,29.7
+1201,Maryland,Caroline County,2013,35
+1202,Maryland,Carroll County,2013,27.9
+1203,Maryland,Cecil County,2013,33.7
+1204,Maryland,Charles County,2013,36
+1205,Maryland,Dorchester County,2013,35.7
+1206,Maryland,Frederick County,2013,29.1
+1207,Maryland,Garrett County,2013,30.6
+1208,Maryland,Harford County,2013,27.9
+1209,Maryland,Howard County,2013,21.7
+1210,Maryland,Kent County,2013,28.1
+1211,Maryland,Montgomery County,2013,20.1
+1212,Maryland,Prince George's County,2013,33.4
+1213,Maryland,Queen Anne's County,2013,28.9
+1214,Maryland,St. Mary's County,2013,32
+1215,Maryland,Somerset County,2013,42.2
+1216,Maryland,Talbot County,2013,29.3
+1217,Maryland,Washington County,2013,33.8
+1218,Maryland,Wicomico County,2013,35.9
+1219,Maryland,Worcester County,2013,29.4
+1220,Maryland,Baltimore city,2013,33.7
+1221,Massachusetts,Barnstable County,2013,19.9
+1222,Massachusetts,Berkshire County,2013,23.7
+1223,Massachusetts,Bristol County,2013,28.3
+1224,Massachusetts,Dukes County,2013,22
+1225,Massachusetts,Essex County,2013,25.5
+1226,Massachusetts,Franklin County,2013,21
+1227,Massachusetts,Hampden County,2013,27.5
+1228,Massachusetts,Hampshire County,2013,18.9
+1229,Massachusetts,Middlesex County,2013,22.6
+1230,Massachusetts,Nantucket County,2013,20
+1231,Massachusetts,Norfolk County,2013,20.5
+1232,Massachusetts,Plymouth County,2013,27.8
+1233,Massachusetts,Suffolk County,2013,21.3
+1234,Massachusetts,Worcester County,2013,27
+1235,Michigan,Alcona County,2013,31.1
+1236,Michigan,Alger County,2013,29.8
+1237,Michigan,Allegan County,2013,30.2
+1238,Michigan,Alpena County,2013,32.1
+1239,Michigan,Antrim County,2013,32.2
+1240,Michigan,Arenac County,2013,34
+1241,Michigan,Baraga County,2013,32.5
+1242,Michigan,Barry County,2013,31.2
+1243,Michigan,Bay County,2013,35.4
+1244,Michigan,Benzie County,2013,28.7
+1245,Michigan,Berrien County,2013,34.8
+1246,Michigan,Branch County,2013,31.8
+1247,Michigan,Calhoun County,2013,33.9
+1248,Michigan,Cass County,2013,35.3
+1249,Michigan,Charlevoix County,2013,28.6
+1250,Michigan,Cheboygan County,2013,33.2
+1251,Michigan,Chippewa County,2013,34.6
+1252,Michigan,Clare County,2013,33.8
+1253,Michigan,Clinton County,2013,31.6
+1254,Michigan,Crawford County,2013,30.4
+1255,Michigan,Delta County,2013,32.1
+1256,Michigan,Dickinson County,2013,30.1
+1257,Michigan,Eaton County,2013,35.7
+1258,Michigan,Emmet County,2013,29.8
+1259,Michigan,Genesee County,2013,33
+1260,Michigan,Gladwin County,2013,34.7
+1261,Michigan,Gogebic County,2013,31.3
+1262,Michigan,Grand Traverse County,2013,26.8
+1263,Michigan,Gratiot County,2013,33.6
+1264,Michigan,Hillsdale County,2013,32
+1265,Michigan,Houghton County,2013,30.7
+1266,Michigan,Huron County,2013,31.5
+1267,Michigan,Ingham County,2013,30.4
+1268,Michigan,Ionia County,2013,38
+1269,Michigan,Iosco County,2013,33.2
+1270,Michigan,Iron County,2013,29.1
+1271,Michigan,Isabella County,2013,30.9
+1272,Michigan,Jackson County,2013,33.7
+1273,Michigan,Kalamazoo County,2013,30.6
+1274,Michigan,Kalkaska County,2013,31.6
+1275,Michigan,Kent County,2013,28.7
+1276,Michigan,Keweenaw County,2013,30.9
+1277,Michigan,Lake County,2013,32
+1278,Michigan,Lapeer County,2013,30.3
+1279,Michigan,Leelanau County,2013,26.6
+1280,Michigan,Lenawee County,2013,30.8
+1281,Michigan,Livingston County,2013,29.6
+1282,Michigan,Luce County,2013,32.6
+1283,Michigan,Mackinac County,2013,31.1
+1284,Michigan,Macomb County,2013,33.3
+1285,Michigan,Manistee County,2013,34.6
+1286,Michigan,Marquette County,2013,29.2
+1287,Michigan,Mason County,2013,29.9
+1288,Michigan,Mecosta County,2013,35
+1289,Michigan,Menominee County,2013,34.4
+1290,Michigan,Midland County,2013,30.5
+1291,Michigan,Missaukee County,2013,32.2
+1292,Michigan,Monroe County,2013,33.8
+1293,Michigan,Montcalm County,2013,34
+1294,Michigan,Montmorency County,2013,28.9
+1295,Michigan,Muskegon County,2013,35.8
+1296,Michigan,Newaygo County,2013,34
+1297,Michigan,Oakland County,2013,26.3
+1298,Michigan,Oceana County,2013,34.8
+1299,Michigan,Ogemaw County,2013,35.6
+1300,Michigan,Ontonagon County,2013,33
+1301,Michigan,Osceola County,2013,34.2
+1302,Michigan,Oscoda County,2013,33.5
+1303,Michigan,Otsego County,2013,33.3
+1304,Michigan,Ottawa County,2013,27.6
+1305,Michigan,Presque Isle County,2013,32.3
+1306,Michigan,Roscommon County,2013,34.2
+1307,Michigan,Saginaw County,2013,38.9
+1308,Michigan,St. Clair County,2013,33
+1309,Michigan,St. Joseph County,2013,34.7
+1310,Michigan,Sanilac County,2013,31.3
+1311,Michigan,Schoolcraft County,2013,31.3
+1312,Michigan,Shiawassee County,2013,32.4
+1313,Michigan,Tuscola County,2013,32.6
+1314,Michigan,Van Buren County,2013,33.5
+1315,Michigan,Washtenaw County,2013,24.4
+1316,Michigan,Wayne County,2013,33.5
+1317,Michigan,Wexford County,2013,30.2
+1318,Minnesota,Aitkin County,2013,29.9
+1319,Minnesota,Anoka County,2013,30
+1320,Minnesota,Becker County,2013,32.6
+1321,Minnesota,Beltrami County,2013,30.9
+1322,Minnesota,Benton County,2013,29.3
+1323,Minnesota,Big Stone County,2013,28.7
+1324,Minnesota,Blue Earth County,2013,33.7
+1325,Minnesota,Brown County,2013,30.1
+1326,Minnesota,Carlton County,2013,30.1
+1327,Minnesota,Carver County,2013,23
+1328,Minnesota,Cass County,2013,26.5
+1329,Minnesota,Chippewa County,2013,29.9
+1330,Minnesota,Chisago County,2013,29.8
+1331,Minnesota,Clay County,2013,28.4
+1332,Minnesota,Clearwater County,2013,31
+1333,Minnesota,Cook County,2013,28.9
+1334,Minnesota,Cottonwood County,2013,31.7
+1335,Minnesota,Crow Wing County,2013,29
+1336,Minnesota,Dakota County,2013,26.6
+1337,Minnesota,Dodge County,2013,24.9
+1338,Minnesota,Douglas County,2013,30
+1339,Minnesota,Faribault County,2013,27
+1340,Minnesota,Fillmore County,2013,25.1
+1341,Minnesota,Freeborn County,2013,29.9
+1342,Minnesota,Goodhue County,2013,32.2
+1343,Minnesota,Grant County,2013,32
+1344,Minnesota,Hennepin County,2013,22.8
+1345,Minnesota,Houston County,2013,25.7
+1346,Minnesota,Hubbard County,2013,24.9
+1347,Minnesota,Isanti County,2013,28
+1348,Minnesota,Itasca County,2013,32.2
+1349,Minnesota,Jackson County,2013,31.5
+1350,Minnesota,Kanabec County,2013,29.9
+1351,Minnesota,Kandiyohi County,2013,29.1
+1352,Minnesota,Kittson County,2013,27.8
+1353,Minnesota,Koochiching County,2013,28
+1354,Minnesota,Lac qui Parle County,2013,28.8
+1355,Minnesota,Lake County,2013,30.3
+1356,Minnesota,Lake of the Woods Count,2013,30.4
+1357,Minnesota,Le Sueur County,2013,32.4
+1358,Minnesota,Lincoln County,2013,28.3
+1359,Minnesota,Lyon County,2013,28.7
+1360,Minnesota,McLeod County,2013,31.1
+1361,Minnesota,Mahnomen County,2013,32.6
+1362,Minnesota,Marshall County,2013,29.7
+1363,Minnesota,Martin County,2013,32.2
+1364,Minnesota,Meeker County,2013,30.4
+1365,Minnesota,Mille Lacs County,2013,35.9
+1366,Minnesota,Morrison County,2013,34.3
+1367,Minnesota,Mower County,2013,30.8
+1368,Minnesota,Murray County,2013,29.8
+1369,Minnesota,Nicollet County,2013,29.9
+1370,Minnesota,Nobles County,2013,28.8
+1371,Minnesota,Norman County,2013,28.2
+1372,Minnesota,Olmsted County,2013,25.6
+1373,Minnesota,Otter Tail County,2013,29.4
+1374,Minnesota,Pennington County,2013,27.5
+1375,Minnesota,Pine County,2013,36.2
+1376,Minnesota,Pipestone County,2013,28.4
+1377,Minnesota,Polk County,2013,33.5
+1378,Minnesota,Pope County,2013,32.1
+1379,Minnesota,Ramsey County,2013,25.8
+1380,Minnesota,Red Lake County,2013,32.8
+1381,Minnesota,Redwood County,2013,32.6
+1382,Minnesota,Renville County,2013,29.5
+1383,Minnesota,Rice County,2013,31.5
+1384,Minnesota,Rock County,2013,28.4
+1385,Minnesota,Roseau County,2013,29.3
+1386,Minnesota,St. Louis County,2013,27.1
+1387,Minnesota,Scott County,2013,24.6
+1388,Minnesota,Sherburne County,2013,28.8
+1389,Minnesota,Sibley County,2013,33.3
+1390,Minnesota,Stearns County,2013,27.6
+1391,Minnesota,Steele County,2013,30.5
+1392,Minnesota,Stevens County,2013,33.5
+1393,Minnesota,Swift County,2013,28.6
+1394,Minnesota,Todd County,2013,30.4
+1395,Minnesota,Traverse County,2013,32.1
+1396,Minnesota,Wabasha County,2013,32.2
+1397,Minnesota,Wadena County,2013,29.2
+1398,Minnesota,Waseca County,2013,33.7
+1399,Minnesota,Washington County,2013,26.1
+1400,Minnesota,Watonwan County,2013,26.9
+1401,Minnesota,Wilkin County,2013,28.5
+1402,Minnesota,Winona County,2013,28.9
+1403,Minnesota,Wright County,2013,28
+1404,Minnesota,Yellow Medicine County,2013,29
+1405,Mississippi,Adams County,2013,37.7
+1406,Mississippi,Alcorn County,2013,37.9
+1407,Mississippi,Amite County,2013,42.3
+1408,Mississippi,Attala County,2013,39.2
+1409,Mississippi,Benton County,2013,37
+1410,Mississippi,Bolivar County,2013,37.5
+1411,Mississippi,Calhoun County,2013,35.8
+1412,Mississippi,Carroll County,2013,34.2
+1413,Mississippi,Chickasaw County,2013,33.4
+1414,Mississippi,Choctaw County,2013,31.7
+1415,Mississippi,Claiborne County,2013,47.6
+1416,Mississippi,Clarke County,2013,34.8
+1417,Mississippi,Clay County,2013,35.3
+1418,Mississippi,Coahoma County,2013,42.9
+1419,Mississippi,Copiah County,2013,37.4
+1420,Mississippi,Covington County,2013,36.3
+1421,Mississippi,DeSoto County,2013,35.9
+1422,Mississippi,Forrest County,2013,34.4
+1423,Mississippi,Franklin County,2013,35.6
+1424,Mississippi,George County,2013,34.2
+1425,Mississippi,Greene County,2013,38.5
+1426,Mississippi,Grenada County,2013,38.9
+1427,Mississippi,Hancock County,2013,31.9
+1428,Mississippi,Harrison County,2013,32.3
+1429,Mississippi,Hinds County,2013,34.9
+1430,Mississippi,Holmes County,2013,46.1
+1431,Mississippi,Humphreys County,2013,41.6
+1432,Mississippi,Issaquena County,2013,34.4
+1433,Mississippi,Itawamba County,2013,34.5
+1434,Mississippi,Jackson County,2013,32
+1435,Mississippi,Jasper County,2013,37.9
+1436,Mississippi,Jefferson County,2013,44.5
+1437,Mississippi,Jefferson Davis County,2013,39.4
+1438,Mississippi,Jones County,2013,38.4
+1439,Mississippi,Kemper County,2013,36.9
+1440,Mississippi,Lafayette County,2013,34.3
+1441,Mississippi,Lamar County,2013,32.8
+1442,Mississippi,Lauderdale County,2013,32.3
+1443,Mississippi,Lawrence County,2013,36.8
+1444,Mississippi,Leake County,2013,40.9
+1445,Mississippi,Lee County,2013,33
+1446,Mississippi,Leflore County,2013,44
+1447,Mississippi,Lincoln County,2013,39.1
+1448,Mississippi,Lowndes County,2013,34.3
+1449,Mississippi,Madison County,2013,28.6
+1450,Mississippi,Marion County,2013,34.2
+1451,Mississippi,Marshall County,2013,39.1
+1452,Mississippi,Monroe County,2013,38
+1453,Mississippi,Montgomery County,2013,38.3
+1454,Mississippi,Neshoba County,2013,37.5
+1455,Mississippi,Newton County,2013,34.8
+1456,Mississippi,Noxubee County,2013,40.6
+1457,Mississippi,Oktibbeha County,2013,34.2
+1458,Mississippi,Panola County,2013,36
+1459,Mississippi,Pearl River County,2013,33.7
+1460,Mississippi,Perry County,2013,37.2
+1461,Mississippi,Pike County,2013,37.2
+1462,Mississippi,Pontotoc County,2013,31.1
+1463,Mississippi,Prentiss County,2013,33.1
+1464,Mississippi,Quitman County,2013,41.5
+1465,Mississippi,Rankin County,2013,31.5
+1466,Mississippi,Scott County,2013,33.7
+1467,Mississippi,Sharkey County,2013,37.5
+1468,Mississippi,Simpson County,2013,37.7
+1469,Mississippi,Smith County,2013,36.8
+1470,Mississippi,Stone County,2013,35.8
+1471,Mississippi,Sunflower County,2013,42.2
+1472,Mississippi,Tallahatchie County,2013,39.6
+1473,Mississippi,Tate County,2013,37.4
+1474,Mississippi,Tippah County,2013,33.9
+1475,Mississippi,Tishomingo County,2013,36.6
+1476,Mississippi,Tunica County,2013,40.7
+1477,Mississippi,Union County,2013,33.2
+1478,Mississippi,Walthall County,2013,38.3
+1479,Mississippi,Warren County,2013,32.7
+1480,Mississippi,Washington County,2013,38.9
+1481,Mississippi,Wayne County,2013,38.2
+1482,Mississippi,Webster County,2013,33.9
+1483,Mississippi,Wilkinson County,2013,39.9
+1484,Mississippi,Winston County,2013,36.4
+1485,Mississippi,Yalobusha County,2013,38.6
+1486,Mississippi,Yazoo County,2013,38.8
+1487,Missouri,Adair County,2013,29
+1488,Missouri,Andrew County,2013,29.3
+1489,Missouri,Atchison County,2013,29.8
+1490,Missouri,Audrain County,2013,34.7
+1491,Missouri,Barry County,2013,32.4
+1492,Missouri,Barton County,2013,35.3
+1493,Missouri,Bates County,2013,32.1
+1494,Missouri,Benton County,2013,31.2
+1495,Missouri,Bollinger County,2013,33.1
+1496,Missouri,Boone County,2013,28.4
+1497,Missouri,Buchanan County,2013,32.6
+1498,Missouri,Butler County,2013,35.1
+1499,Missouri,Caldwell County,2013,37.2
+1500,Missouri,Callaway County,2013,34.3
+1501,Missouri,Camden County,2013,28.5
+1502,Missouri,Cape Girardeau County,2013,31.9
+1503,Missouri,Carroll County,2013,35.4
+1504,Missouri,Carter County,2013,31.1
+1505,Missouri,Cass County,2013,30.3
+1506,Missouri,Cedar County,2013,31
+1507,Missouri,Chariton County,2013,30.4
+1508,Missouri,Christian County,2013,29.1
+1509,Missouri,Clark County,2013,34.3
+1510,Missouri,Clay County,2013,29.3
+1511,Missouri,Clinton County,2013,34.5
+1512,Missouri,Cole County,2013,30.7
+1513,Missouri,Cooper County,2013,35.4
+1514,Missouri,Crawford County,2013,32.4
+1515,Missouri,Dade County,2013,34.3
+1516,Missouri,Dallas County,2013,33.7
+1517,Missouri,Daviess County,2013,32.6
+1518,Missouri,DeKalb County,2013,36.1
+1519,Missouri,Dent County,2013,34.6
+1520,Missouri,Douglas County,2013,32.5
+1521,Missouri,Dunklin County,2013,32
+1522,Missouri,Franklin County,2013,30.4
+1523,Missouri,Gasconade County,2013,35
+1524,Missouri,Gentry County,2013,28.7
+1525,Missouri,Greene County,2013,32
+1526,Missouri,Grundy County,2013,32.6
+1527,Missouri,Harrison County,2013,34.1
+1528,Missouri,Henry County,2013,29.5
+1529,Missouri,Hickory County,2013,29.2
+1530,Missouri,Holt County,2013,32.5
+1531,Missouri,Howard County,2013,33.9
+1532,Missouri,Howell County,2013,31.5
+1533,Missouri,Iron County,2013,35.1
+1534,Missouri,Jackson County,2013,31
+1535,Missouri,Jasper County,2013,34.5
+1536,Missouri,Jefferson County,2013,30.4
+1537,Missouri,Johnson County,2013,30.9
+1538,Missouri,Knox County,2013,31.7
+1539,Missouri,Laclede County,2013,31.1
+1540,Missouri,Lafayette County,2013,29.1
+1541,Missouri,Lawrence County,2013,30
+1542,Missouri,Lewis County,2013,35.5
+1543,Missouri,Lincoln County,2013,31.5
+1544,Missouri,Linn County,2013,30.6
+1545,Missouri,Livingston County,2013,28.8
+1546,Missouri,McDonald County,2013,28.1
+1547,Missouri,Macon County,2013,32.8
+1548,Missouri,Madison County,2013,34.3
+1549,Missouri,Maries County,2013,33.7
+1550,Missouri,Marion County,2013,37.3
+1551,Missouri,Mercer County,2013,33.4
+1552,Missouri,Miller County,2013,30.8
+1553,Missouri,Mississippi County,2013,31.9
+1554,Missouri,Moniteau County,2013,28.3
+1555,Missouri,Monroe County,2013,30.8
+1556,Missouri,Montgomery County,2013,33.9
+1557,Missouri,Morgan County,2013,28.3
+1558,Missouri,New Madrid County,2013,33.1
+1559,Missouri,Newton County,2013,32
+1560,Missouri,Nodaway County,2013,29.7
+1561,Missouri,Oregon County,2013,32.4
+1562,Missouri,Osage County,2013,33.3
+1563,Missouri,Ozark County,2013,33.4
+1564,Missouri,Pemiscot County,2013,34.4
+1565,Missouri,Perry County,2013,33
+1566,Missouri,Pettis County,2013,36.5
+1567,Missouri,Phelps County,2013,27
+1568,Missouri,Pike County,2013,28.8
+1569,Missouri,Platte County,2013,30.8
+1570,Missouri,Polk County,2013,29.4
+1571,Missouri,Pulaski County,2013,28.4
+1572,Missouri,Putnam County,2013,31.9
+1573,Missouri,Ralls County,2013,32.6
+1574,Missouri,Randolph County,2013,33
+1575,Missouri,Ray County,2013,34.8
+1576,Missouri,Reynolds County,2013,32.6
+1577,Missouri,Ripley County,2013,34.3
+1578,Missouri,St. Charles County,2013,25
+1579,Missouri,St. Clair County,2013,28.6
+1580,Missouri,Ste. Genevieve County,2013,30.1
+1581,Missouri,St. Francois County,2013,32.8
+1582,Missouri,St. Louis County,2013,29
+1583,Missouri,Saline County,2013,37.6
+1584,Missouri,Schuyler County,2013,30.3
+1585,Missouri,Scotland County,2013,31.2
+1586,Missouri,Scott County,2013,36.5
+1587,Missouri,Shannon County,2013,29.7
+1588,Missouri,Shelby County,2013,33.1
+1589,Missouri,Stoddard County,2013,32.8
+1590,Missouri,Stone County,2013,33.2
+1591,Missouri,Sullivan County,2013,35.7
+1592,Missouri,Taney County,2013,30.9
+1593,Missouri,Texas County,2013,32.6
+1594,Missouri,Vernon County,2013,30.3
+1595,Missouri,Warren County,2013,28.4
+1596,Missouri,Washington County,2013,33.6
+1597,Missouri,Wayne County,2013,36.1
+1598,Missouri,Webster County,2013,33.8
+1599,Missouri,Worth County,2013,30.2
+1600,Missouri,Wright County,2013,31.4
+1601,Missouri,St. Louis city,2013,33.8
+1602,Montana,Beaverhead County,2013,24.2
+1603,Montana,Big Horn County,2013,38.8
+1604,Montana,Blaine County,2013,35.6
+1605,Montana,Broadwater County,2013,30.4
+1606,Montana,Carbon County,2013,24
+1607,Montana,Carter County,2013,25
+1608,Montana,Cascade County,2013,28.2
+1609,Montana,Chouteau County,2013,26.2
+1610,Montana,Custer County,2013,30.6
+1611,Montana,Daniels County,2013,25.5
+1612,Montana,Dawson County,2013,30.9
+1613,Montana,Deer Lodge County,2013,25.9
+1614,Montana,Fallon County,2013,27.7
+1615,Montana,Fergus County,2013,26
+1616,Montana,Flathead County,2013,23.1
+1617,Montana,Gallatin County,2013,15.5
+1618,Montana,Garfield County,2013,25.9
+1619,Montana,Glacier County,2013,34.2
+1620,Montana,Golden Valley County,2013,24.4
+1621,Montana,Granite County,2013,29
+1622,Montana,Hill County,2013,33.4
+1623,Montana,Jefferson County,2013,27.5
+1624,Montana,Judith Basin County,2013,28.8
+1625,Montana,Lake County,2013,27.7
+1626,Montana,Lewis and Clark County,2013,24.3
+1627,Montana,Liberty County,2013,26.5
+1628,Montana,Lincoln County,2013,28.8
+1629,Montana,McCone County,2013,23.8
+1630,Montana,Madison County,2013,21.7
+1631,Montana,Meagher County,2013,23.9
+1632,Montana,Mineral County,2013,27.7
+1633,Montana,Missoula County,2013,22.2
+1634,Montana,Musselshell County,2013,27.5
+1635,Montana,Park County,2013,22.6
+1636,Montana,Petroleum County,2013,24.6
+1637,Montana,Phillips County,2013,29
+1638,Montana,Pondera County,2013,29.4
+1639,Montana,Powder River County,2013,27.3
+1640,Montana,Powell County,2013,28
+1641,Montana,Prairie County,2013,26.2
+1642,Montana,Ravalli County,2013,23.3
+1643,Montana,Richland County,2013,30.7
+1644,Montana,Roosevelt County,2013,36.9
+1645,Montana,Rosebud County,2013,35.6
+1646,Montana,Sanders County,2013,26.8
+1647,Montana,Sheridan County,2013,29.8
+1648,Montana,Silver Bow County,2013,25.5
+1649,Montana,Stillwater County,2013,21.8
+1650,Montana,Sweet Grass County,2013,24.3
+1651,Montana,Teton County,2013,26.7
+1652,Montana,Toole County,2013,26.5
+1653,Montana,Treasure County,2013,25.6
+1654,Montana,Valley County,2013,29.2
+1655,Montana,Wheatland County,2013,25.3
+1656,Montana,Wibaux County,2013,26.6
+1657,Montana,Yellowstone County,2013,25.1
+1658,Nebraska,Adams County,2013,33
+1659,Nebraska,Antelope County,2013,27.6
+1660,Nebraska,Arthur County,2013,29.7
+1661,Nebraska,Banner County,2013,33.5
+1662,Nebraska,Blaine County,2013,29.1
+1663,Nebraska,Boone County,2013,31.6
+1664,Nebraska,Box Butte County,2013,33.9
+1665,Nebraska,Boyd County,2013,34.2
+1666,Nebraska,Brown County,2013,30.2
+1667,Nebraska,Buffalo County,2013,30.1
+1668,Nebraska,Burt County,2013,31
+1669,Nebraska,Butler County,2013,32
+1670,Nebraska,Cass County,2013,35.4
+1671,Nebraska,Cedar County,2013,28.3
+1672,Nebraska,Chase County,2013,30.6
+1673,Nebraska,Cherry County,2013,26.2
+1674,Nebraska,Cheyenne County,2013,31.5
+1675,Nebraska,Clay County,2013,32.9
+1676,Nebraska,Colfax County,2013,31.5
+1677,Nebraska,Cuming County,2013,29.7
+1678,Nebraska,Custer County,2013,32
+1679,Nebraska,Dakota County,2013,35.8
+1680,Nebraska,Dawes County,2013,27.3
+1681,Nebraska,Dawson County,2013,33.8
+1682,Nebraska,Deuel County,2013,30.1
+1683,Nebraska,Dixon County,2013,31.5
+1684,Nebraska,Dodge County,2013,32.7
+1685,Nebraska,Douglas County,2013,27.8
+1686,Nebraska,Dundy County,2013,35.3
+1687,Nebraska,Fillmore County,2013,33.4
+1688,Nebraska,Franklin County,2013,36.7
+1689,Nebraska,Frontier County,2013,35.5
+1690,Nebraska,Furnas County,2013,33.9
+1691,Nebraska,Gage County,2013,34.1
+1692,Nebraska,Garden County,2013,32.6
+1693,Nebraska,Garfield County,2013,28.4
+1694,Nebraska,Gosper County,2013,34.4
+1695,Nebraska,Grant County,2013,28.3
+1696,Nebraska,Greeley County,2013,32.4
+1697,Nebraska,Hall County,2013,33.9
+1698,Nebraska,Hamilton County,2013,32.5
+1699,Nebraska,Harlan County,2013,32.1
+1700,Nebraska,Hayes County,2013,33.2
+1701,Nebraska,Hitchcock County,2013,35.9
+1702,Nebraska,Holt County,2013,30.2
+1703,Nebraska,Hooker County,2013,26.6
+1704,Nebraska,Howard County,2013,29.4
+1705,Nebraska,Jefferson County,2013,36.2
+1706,Nebraska,Johnson County,2013,30.3
+1707,Nebraska,Kearney County,2013,31.1
+1708,Nebraska,Keith County,2013,27.5
+1709,Nebraska,Keya Paha County,2013,29.6
+1710,Nebraska,Kimball County,2013,31.4
+1711,Nebraska,Knox County,2013,31.6
+1712,Nebraska,Lancaster County,2013,26
+1713,Nebraska,Lincoln County,2013,31.7
+1714,Nebraska,Logan County,2013,31.1
+1715,Nebraska,Loup County,2013,30.7
+1716,Nebraska,McPherson County,2013,30.5
+1717,Nebraska,Madison County,2013,32.6
+1718,Nebraska,Merrick County,2013,32.6
+1719,Nebraska,Morrill County,2013,30.2
+1720,Nebraska,Nance County,2013,29.8
+1721,Nebraska,Nemaha County,2013,35.5
+1722,Nebraska,Nuckolls County,2013,33.5
+1723,Nebraska,Otoe County,2013,33.9
+1724,Nebraska,Pawnee County,2013,29.8
+1725,Nebraska,Perkins County,2013,24.5
+1726,Nebraska,Phelps County,2013,33.4
+1727,Nebraska,Pierce County,2013,34.1
+1728,Nebraska,Platte County,2013,29.3
+1729,Nebraska,Polk County,2013,29.5
+1730,Nebraska,Red Willow County,2013,31.9
+1731,Nebraska,Richardson County,2013,36.7
+1732,Nebraska,Rock County,2013,30.3
+1733,Nebraska,Saline County,2013,33
+1734,Nebraska,Sarpy County,2013,30.6
+1735,Nebraska,Saunders County,2013,28.6
+1736,Nebraska,Scotts Bluff County,2013,33.9
+1737,Nebraska,Seward County,2013,29.4
+1738,Nebraska,Sheridan County,2013,30.2
+1739,Nebraska,Sherman County,2013,33.1
+1740,Nebraska,Sioux County,2013,32.3
+1741,Nebraska,Stanton County,2013,34.3
+1742,Nebraska,Thayer County,2013,30.2
+1743,Nebraska,Thomas County,2013,32.8
+1744,Nebraska,Thurston County,2013,41.8
+1745,Nebraska,Valley County,2013,32.3
+1746,Nebraska,Washington County,2013,31.5
+1747,Nebraska,Wayne County,2013,29.6
+1748,Nebraska,Webster County,2013,32.9
+1749,Nebraska,Wheeler County,2013,28.1
+1750,Nebraska,York County,2013,33.6
+1751,Nevada,Churchill County,2013,25.5
+1752,Nevada,Clark County,2013,27.8
+1753,Nevada,Douglas County,2013,21.4
+1754,Nevada,Elko County,2013,30.3
+1755,Nevada,Esmeralda County,2013,25.5
+1756,Nevada,Eureka County,2013,27.2
+1757,Nevada,Humboldt County,2013,25.7
+1758,Nevada,Lander County,2013,30.4
+1759,Nevada,Lincoln County,2013,25.9
+1760,Nevada,Lyon County,2013,29.8
+1761,Nevada,Mineral County,2013,28
+1762,Nevada,Nye County,2013,31.5
+1763,Nevada,Pershing County,2013,31.1
+1764,Nevada,Storey County,2013,26.9
+1765,Nevada,Washoe County,2013,21.8
+1766,Nevada,White Pine County,2013,28.7
+1767,Nevada,Carson City,2013,24.6
+1768,New Hampshire,Belknap County,2013,31.3
+1769,New Hampshire,Carroll County,2013,25.2
+1770,New Hampshire,Cheshire County,2013,27.4
+1771,New Hampshire,Coos County,2013,30.5
+1772,New Hampshire,Grafton County,2013,25.3
+1773,New Hampshire,Hillsborough County,2013,28.5
+1774,New Hampshire,Merrimack County,2013,29.5
+1775,New Hampshire,Rockingham County,2013,26.1
+1776,New Hampshire,Strafford County,2013,29.1
+1777,New Hampshire,Sullivan County,2013,28.8
+1778,New Jersey,Atlantic County,2013,27.6
+1779,New Jersey,Bergen County,2013,21.5
+1780,New Jersey,Burlington County,2013,28
+1781,New Jersey,Camden County,2013,30.2
+1782,New Jersey,Cape May County,2013,27.9
+1783,New Jersey,Cumberland County,2013,34.5
+1784,New Jersey,Essex County,2013,28.7
+1785,New Jersey,Gloucester County,2013,30.3
+1786,New Jersey,Hudson County,2013,23.9
+1787,New Jersey,Hunterdon County,2013,22.3
+1788,New Jersey,Mercer County,2013,24.6
+1789,New Jersey,Middlesex County,2013,25
+1790,New Jersey,Monmouth County,2013,23.2
+1791,New Jersey,Morris County,2013,21
+1792,New Jersey,Ocean County,2013,28.1
+1793,New Jersey,Passaic County,2013,25.7
+1794,New Jersey,Salem County,2013,33.9
+1795,New Jersey,Somerset County,2013,22.6
+1796,New Jersey,Sussex County,2013,26.2
+1797,New Jersey,Union County,2013,24.7
+1798,New Jersey,Warren County,2013,28.8
+1799,New Mexico,Bernalillo County,2013,21.5
+1800,New Mexico,Catron County,2013,20.3
+1801,New Mexico,Chaves County,2013,29.2
+1802,New Mexico,Cibola County,2013,31.2
+1803,New Mexico,Colfax County,2013,22
+1804,New Mexico,Curry County,2013,30.5
+1805,New Mexico,De Baca County,2013,22.9
+1806,New Mexico,Do¤a Ana County,2013,23.6
+1807,New Mexico,Eddy County,2013,31.2
+1808,New Mexico,Grant County,2013,21.8
+1809,New Mexico,Guadalupe County,2013,27.3
+1810,New Mexico,Harding County,2013,22.9
+1811,New Mexico,Hidalgo County,2013,22.9
+1812,New Mexico,Lea County,2013,33.8
+1813,New Mexico,Lincoln County,2013,19.9
+1814,New Mexico,Los Alamos County,2013,19.9
+1815,New Mexico,Luna County,2013,24.3
+1816,New Mexico,McKinley County,2013,35.1
+1817,New Mexico,Mora County,2013,22.6
+1818,New Mexico,Otero County,2013,25.1
+1819,New Mexico,Quay County,2013,32
+1820,New Mexico,Rio Arriba County,2013,24.5
+1821,New Mexico,Roosevelt County,2013,26.9
+1822,New Mexico,Sandoval County,2013,23.8
+1823,New Mexico,San Juan County,2013,31.7
+1824,New Mexico,San Miguel County,2013,22.6
+1825,New Mexico,Santa Fe County,2013,13.7
+1826,New Mexico,Sierra County,2013,21
+1827,New Mexico,Socorro County,2013,26.3
+1828,New Mexico,Taos County,2013,17.4
+1829,New Mexico,Torrance County,2013,26.1
+1830,New Mexico,Union County,2013,27
+1831,New Mexico,Valencia County,2013,26.6
+1832,New York,Albany County,2013,25.4
+1833,New York,Allegany County,2013,29.6
+1834,New York,Bronx County,2013,30.4
+1835,New York,Broome County,2013,27.3
+1836,New York,Cattaraugus County,2013,28.1
+1837,New York,Cayuga County,2013,30.6
+1838,New York,Chautauqua County,2013,29.6
+1839,New York,Chemung County,2013,29.1
+1840,New York,Chenango County,2013,30.3
+1841,New York,Clinton County,2013,30.3
+1842,New York,Columbia County,2013,25
+1843,New York,Cortland County,2013,26.8
+1844,New York,Delaware County,2013,27.9
+1845,New York,Dutchess County,2013,25.9
+1846,New York,Erie County,2013,26.7
+1847,New York,Essex County,2013,27.3
+1848,New York,Franklin County,2013,30.3
+1849,New York,Fulton County,2013,30.1
+1850,New York,Genesee County,2013,26.8
+1851,New York,Greene County,2013,27.9
+1852,New York,Hamilton County,2013,26.1
+1853,New York,Herkimer County,2013,29.6
+1854,New York,Jefferson County,2013,28.4
+1855,New York,Kings County,2013,22.7
+1856,New York,Lewis County,2013,33.7
+1857,New York,Livingston County,2013,31.2
+1858,New York,Madison County,2013,26.1
+1859,New York,Monroe County,2013,27.7
+1860,New York,Montgomery County,2013,26
+1861,New York,Nassau County,2013,23.5
+1862,New York,New York County,2013,14.7
+1863,New York,Niagara County,2013,30.4
+1864,New York,Oneida County,2013,31.4
+1865,New York,Onondaga County,2013,27.9
+1866,New York,Ontario County,2013,29.4
+1867,New York,Orange County,2013,28.8
+1868,New York,Orleans County,2013,28.5
+1869,New York,Oswego County,2013,29.2
+1870,New York,Otsego County,2013,26
+1871,New York,Putnam County,2013,24.1
+1872,New York,Queens County,2013,23.8
+1873,New York,Rensselaer County,2013,27.4
+1874,New York,Richmond County,2013,28.2
+1875,New York,Rockland County,2013,22.4
+1876,New York,St. Lawrence County,2013,28.2
+1877,New York,Saratoga County,2013,26.7
+1878,New York,Schenectady County,2013,26.1
+1879,New York,Schoharie County,2013,26.2
+1880,New York,Schuyler County,2013,30.8
+1881,New York,Seneca County,2013,28.9
+1882,New York,Steuben County,2013,30.8
+1883,New York,Suffolk County,2013,23.1
+1884,New York,Sullivan County,2013,29.3
+1885,New York,Tioga County,2013,29.3
+1886,New York,Tompkins County,2013,25.3
+1887,New York,Ulster County,2013,27.2
+1888,New York,Warren County,2013,27.4
+1889,New York,Washington County,2013,31.9
+1890,New York,Wayne County,2013,30.2
+1891,New York,Westchester County,2013,20.3
+1892,New York,Wyoming County,2013,25.6
+1893,New York,Yates County,2013,26.6
+1894,North Carolina,Alamance County,2013,35.1
+1895,North Carolina,Alexander County,2013,34
+1896,North Carolina,Alleghany County,2013,27.1
+1897,North Carolina,Anson County,2013,34.6
+1898,North Carolina,Ashe County,2013,29.1
+1899,North Carolina,Avery County,2013,26
+1900,North Carolina,Beaufort County,2013,33
+1901,North Carolina,Bertie County,2013,35.5
+1902,North Carolina,Bladen County,2013,38.2
+1903,North Carolina,Brunswick County,2013,28
+1904,North Carolina,Buncombe County,2013,23.5
+1905,North Carolina,Burke County,2013,32.4
+1906,North Carolina,Cabarrus County,2013,30
+1907,North Carolina,Caldwell County,2013,32.7
+1908,North Carolina,Camden County,2013,31
+1909,North Carolina,Carteret County,2013,25.8
+1910,North Carolina,Caswell County,2013,36
+1911,North Carolina,Catawba County,2013,29.5
+1912,North Carolina,Chatham County,2013,27.1
+1913,North Carolina,Cherokee County,2013,30
+1914,North Carolina,Chowan County,2013,34.2
+1915,North Carolina,Clay County,2013,28.7
+1916,North Carolina,Cleveland County,2013,30.9
+1917,North Carolina,Columbus County,2013,31.2
+1918,North Carolina,Craven County,2013,30.1
+1919,North Carolina,Cumberland County,2013,32.3
+1920,North Carolina,Currituck County,2013,28.9
+1921,North Carolina,Dare County,2013,27.4
+1922,North Carolina,Davidson County,2013,31.4
+1923,North Carolina,Davie County,2013,29.1
+1924,North Carolina,Duplin County,2013,32
+1925,North Carolina,Durham County,2013,29.2
+1926,North Carolina,Edgecombe County,2013,40.8
+1927,North Carolina,Forsyth County,2013,31.4
+1928,North Carolina,Franklin County,2013,31.2
+1929,North Carolina,Gaston County,2013,33.3
+1930,North Carolina,Gates County,2013,33.9
+1931,North Carolina,Graham County,2013,27.5
+1932,North Carolina,Granville County,2013,35.8
+1933,North Carolina,Greene County,2013,35.9
+1934,North Carolina,Guilford County,2013,30.7
+1935,North Carolina,Halifax County,2013,39
+1936,North Carolina,Harnett County,2013,33.2
+1937,North Carolina,Haywood County,2013,30
+1938,North Carolina,Henderson County,2013,27.1
+1939,North Carolina,Hertford County,2013,36.9
+1940,North Carolina,Hoke County,2013,34.7
+1941,North Carolina,Hyde County,2013,29.7
+1942,North Carolina,Iredell County,2013,29.1
+1943,North Carolina,Jackson County,2013,31.4
+1944,North Carolina,Johnston County,2013,35.5
+1945,North Carolina,Jones County,2013,33.9
+1946,North Carolina,Lee County,2013,29.9
+1947,North Carolina,Lenoir County,2013,37.2
+1948,North Carolina,Lincoln County,2013,27.6
+1949,North Carolina,McDowell County,2013,30.9
+1950,North Carolina,Macon County,2013,27.4
+1951,North Carolina,Madison County,2013,24.8
+1952,North Carolina,Martin County,2013,38
+1953,North Carolina,Mecklenburg County,2013,23.9
+1954,North Carolina,Mitchell County,2013,29.2
+1955,North Carolina,Montgomery County,2013,30.7
+1956,North Carolina,Moore County,2013,27.4
+1957,North Carolina,Nash County,2013,31.5
+1958,North Carolina,New Hanover County,2013,24.9
+1959,North Carolina,Northampton County,2013,38.5
+1960,North Carolina,Onslow County,2013,29.7
+1961,North Carolina,Orange County,2013,23.3
+1962,North Carolina,Pamlico County,2013,31.5
+1963,North Carolina,Pasquotank County,2013,35.4
+1964,North Carolina,Pender County,2013,31.1
+1965,North Carolina,Perquimans County,2013,32.6
+1966,North Carolina,Person County,2013,32.7
+1967,North Carolina,Pitt County,2013,34.3
+1968,North Carolina,Polk County,2013,27.3
+1969,North Carolina,Randolph County,2013,32.2
+1970,North Carolina,Richmond County,2013,37.9
+1971,North Carolina,Robeson County,2013,39.6
+1972,North Carolina,Rockingham County,2013,35.4
+1973,North Carolina,Rowan County,2013,32.7
+1974,North Carolina,Rutherford County,2013,28.7
+1975,North Carolina,Sampson County,2013,36.7
+1976,North Carolina,Scotland County,2013,36.4
+1977,North Carolina,Stanly County,2013,30
+1978,North Carolina,Stokes County,2013,33.8
+1979,North Carolina,Surry County,2013,30.9
+1980,North Carolina,Swain County,2013,33.3
+1981,North Carolina,Transylvania County,2013,24.3
+1982,North Carolina,Tyrrell County,2013,30.8
+1983,North Carolina,Union County,2013,26.5
+1984,North Carolina,Vance County,2013,38.2
+1985,North Carolina,Wake County,2013,24.8
+1986,North Carolina,Warren County,2013,39.2
+1987,North Carolina,Washington County,2013,32.8
+1988,North Carolina,Watauga County,2013,26.4
+1989,North Carolina,Wayne County,2013,34.4
+1990,North Carolina,Wilkes County,2013,26.7
+1991,North Carolina,Wilson County,2013,36.8
+1992,North Carolina,Yadkin County,2013,31
+1993,North Carolina,Yancey County,2013,27
+1994,North Dakota,Adams County,2013,31.9
+1995,North Dakota,Barnes County,2013,34.7
+1996,North Dakota,Benson County,2013,31
+1997,North Dakota,Billings County,2013,28.3
+1998,North Dakota,Bottineau County,2013,31
+1999,North Dakota,Bowman County,2013,30.3
+2000,North Dakota,Burke County,2013,28.9
+2001,North Dakota,Burleigh County,2013,29.1
+2002,North Dakota,Cass County,2013,29.1
+2003,North Dakota,Cavalier County,2013,32.1
+2004,North Dakota,Dickey County,2013,33.4
+2005,North Dakota,Divide County,2013,27.1
+2006,North Dakota,Dunn County,2013,33.5
+2007,North Dakota,Eddy County,2013,31.5
+2008,North Dakota,Emmons County,2013,30.9
+2009,North Dakota,Foster County,2013,30.5
+2010,North Dakota,Golden Valley County,2013,32.1
+2011,North Dakota,Grand Forks County,2013,30.1
+2012,North Dakota,Grant County,2013,33.3
+2013,North Dakota,Griggs County,2013,26.9
+2014,North Dakota,Hettinger County,2013,29.1
+2015,North Dakota,Kidder County,2013,30.1
+2016,North Dakota,LaMoure County,2013,33.4
+2017,North Dakota,Logan County,2013,32.8
+2018,North Dakota,McHenry County,2013,31.7
+2019,North Dakota,McIntosh County,2013,32.8
+2020,North Dakota,McKenzie County,2013,32.8
+2021,North Dakota,McLean County,2013,33.4
+2022,North Dakota,Mercer County,2013,31.8
+2023,North Dakota,Morton County,2013,33.3
+2024,North Dakota,Mountrail County,2013,35.9
+2025,North Dakota,Nelson County,2013,31.7
+2026,North Dakota,Oliver County,2013,32.1
+2027,North Dakota,Pembina County,2013,32.1
+2028,North Dakota,Pierce County,2013,34
+2029,North Dakota,Ramsey County,2013,33.2
+2030,North Dakota,Ransom County,2013,33.1
+2031,North Dakota,Renville County,2013,31.6
+2032,North Dakota,Richland County,2013,33.1
+2033,North Dakota,Rolette County,2013,41.4
+2034,North Dakota,Sargent County,2013,34.4
+2035,North Dakota,Sheridan County,2013,31.6
+2036,North Dakota,Sioux County,2013,33.7
+2037,North Dakota,Slope County,2013,26.9
+2038,North Dakota,Stark County,2013,29.6
+2039,North Dakota,Steele County,2013,30.2
+2040,North Dakota,Stutsman County,2013,33
+2041,North Dakota,Towner County,2013,30.1
+2042,North Dakota,Traill County,2013,32.8
+2043,North Dakota,Walsh County,2013,32.2
+2044,North Dakota,Ward County,2013,30.8
+2045,North Dakota,Wells County,2013,33.5
+2046,North Dakota,Williams County,2013,35.3
+2047,Ohio,Adams County,2013,31.1
+2048,Ohio,Allen County,2013,35.4
+2049,Ohio,Ashland County,2013,27.9
+2050,Ohio,Ashtabula County,2013,33.5
+2051,Ohio,Athens County,2013,28.3
+2052,Ohio,Auglaize County,2013,34.7
+2053,Ohio,Belmont County,2013,33.5
+2054,Ohio,Brown County,2013,33.7
+2055,Ohio,Butler County,2013,32.8
+2056,Ohio,Carroll County,2013,34.7
+2057,Ohio,Champaign County,2013,37
+2058,Ohio,Clark County,2013,31.5
+2059,Ohio,Clermont County,2013,30.3
+2060,Ohio,Clinton County,2013,34.3
+2061,Ohio,Columbiana County,2013,33
+2062,Ohio,Coshocton County,2013,34.3
+2063,Ohio,Crawford County,2013,32
+2064,Ohio,Cuyahoga County,2013,30
+2065,Ohio,Darke County,2013,32.3
+2066,Ohio,Defiance County,2013,32.9
+2067,Ohio,Delaware County,2013,28.1
+2068,Ohio,Erie County,2013,35.4
+2069,Ohio,Fairfield County,2013,32.6
+2070,Ohio,Fayette County,2013,33.4
+2071,Ohio,Franklin County,2013,29.7
+2072,Ohio,Fulton County,2013,36.7
+2073,Ohio,Gallia County,2013,32.3
+2074,Ohio,Geauga County,2013,27
+2075,Ohio,Greene County,2013,31.3
+2076,Ohio,Guernsey County,2013,36.4
+2077,Ohio,Hamilton County,2013,29.2
+2078,Ohio,Hancock County,2013,31.4
+2079,Ohio,Hardin County,2013,35.2
+2080,Ohio,Harrison County,2013,30.3
+2081,Ohio,Henry County,2013,29.2
+2082,Ohio,Highland County,2013,32.1
+2083,Ohio,Hocking County,2013,37.5
+2084,Ohio,Holmes County,2013,31.2
+2085,Ohio,Huron County,2013,33.3
+2086,Ohio,Jackson County,2013,37.4
+2087,Ohio,Jefferson County,2013,36.6
+2088,Ohio,Knox County,2013,27.6
+2089,Ohio,Lake County,2013,26.7
+2090,Ohio,Lawrence County,2013,38.8
+2091,Ohio,Licking County,2013,31.4
+2092,Ohio,Logan County,2013,34.3
+2093,Ohio,Lorain County,2013,29.2
+2094,Ohio,Lucas County,2013,34.2
+2095,Ohio,Madison County,2013,29.6
+2096,Ohio,Mahoning County,2013,31.3
+2097,Ohio,Marion County,2013,35.8
+2098,Ohio,Medina County,2013,29.1
+2099,Ohio,Meigs County,2013,34.3
+2100,Ohio,Mercer County,2013,27.9
+2101,Ohio,Miami County,2013,34.1
+2102,Ohio,Monroe County,2013,36.8
+2103,Ohio,Montgomery County,2013,33.3
+2104,Ohio,Morgan County,2013,36.7
+2105,Ohio,Morrow County,2013,36.9
+2106,Ohio,Muskingum County,2013,31.2
+2107,Ohio,Noble County,2013,33.5
+2108,Ohio,Ottawa County,2013,30.6
+2109,Ohio,Paulding County,2013,29.9
+2110,Ohio,Perry County,2013,36.3
+2111,Ohio,Pickaway County,2013,34
+2112,Ohio,Pike County,2013,35.8
+2113,Ohio,Portage County,2013,29
+2114,Ohio,Preble County,2013,29.3
+2115,Ohio,Putnam County,2013,35.2
+2116,Ohio,Richland County,2013,32.8
+2117,Ohio,Ross County,2013,33.7
+2118,Ohio,Sandusky County,2013,33.5
+2119,Ohio,Scioto County,2013,37
+2120,Ohio,Seneca County,2013,35.1
+2121,Ohio,Shelby County,2013,31.8
+2122,Ohio,Stark County,2013,30.7
+2123,Ohio,Summit County,2013,30.8
+2124,Ohio,Trumbull County,2013,32.6
+2125,Ohio,Tuscarawas County,2013,35
+2126,Ohio,Union County,2013,34.2
+2127,Ohio,Van Wert County,2013,37.9
+2128,Ohio,Vinton County,2013,33.6
+2129,Ohio,Warren County,2013,29.9
+2130,Ohio,Washington County,2013,34.8
+2131,Ohio,Wayne County,2013,30.3
+2132,Ohio,Williams County,2013,35.9
+2133,Ohio,Wood County,2013,30.9
+2134,Ohio,Wyandot County,2013,35.8
+2135,Oklahoma,Adair County,2013,38.6
+2136,Oklahoma,Alfalfa County,2013,36
+2137,Oklahoma,Atoka County,2013,34.3
+2138,Oklahoma,Beaver County,2013,38.9
+2139,Oklahoma,Beckham County,2013,35.5
+2140,Oklahoma,Blaine County,2013,38.4
+2141,Oklahoma,Bryan County,2013,32.5
+2142,Oklahoma,Caddo County,2013,37
+2143,Oklahoma,Canadian County,2013,35
+2144,Oklahoma,Carter County,2013,32.3
+2145,Oklahoma,Cherokee County,2013,35.5
+2146,Oklahoma,Choctaw County,2013,36.2
+2147,Oklahoma,Cimarron County,2013,32.8
+2148,Oklahoma,Cleveland County,2013,30.1
+2149,Oklahoma,Coal County,2013,35.6
+2150,Oklahoma,Comanche County,2013,34.8
+2151,Oklahoma,Cotton County,2013,36.2
+2152,Oklahoma,Craig County,2013,27.4
+2153,Oklahoma,Creek County,2013,36.8
+2154,Oklahoma,Custer County,2013,30.9
+2155,Oklahoma,Delaware County,2013,33.4
+2156,Oklahoma,Dewey County,2013,35.5
+2157,Oklahoma,Ellis County,2013,31
+2158,Oklahoma,Garfield County,2013,36.7
+2159,Oklahoma,Garvin County,2013,33.8
+2160,Oklahoma,Grady County,2013,34.8
+2161,Oklahoma,Grant County,2013,36.4
+2162,Oklahoma,Greer County,2013,32.7
+2163,Oklahoma,Harmon County,2013,36.8
+2164,Oklahoma,Harper County,2013,35
+2165,Oklahoma,Haskell County,2013,38.5
+2166,Oklahoma,Hughes County,2013,32.3
+2167,Oklahoma,Jackson County,2013,34.1
+2168,Oklahoma,Jefferson County,2013,36
+2169,Oklahoma,Johnston County,2013,39.2
+2170,Oklahoma,Kay County,2013,29.7
+2171,Oklahoma,Kingfisher County,2013,32.1
+2172,Oklahoma,Kiowa County,2013,30.8
+2173,Oklahoma,Latimer County,2013,32.6
+2174,Oklahoma,Le Flore County,2013,39.1
+2175,Oklahoma,Lincoln County,2013,38.8
+2176,Oklahoma,Logan County,2013,31.4
+2177,Oklahoma,Love County,2013,33.5
+2178,Oklahoma,McClain County,2013,31.5
+2179,Oklahoma,McCurtain County,2013,35.3
+2180,Oklahoma,McIntosh County,2013,37.9
+2181,Oklahoma,Major County,2013,31.6
+2182,Oklahoma,Marshall County,2013,36.1
+2183,Oklahoma,Mayes County,2013,34.7
+2184,Oklahoma,Murray County,2013,39.7
+2185,Oklahoma,Muskogee County,2013,37.4
+2186,Oklahoma,Noble County,2013,32.8
+2187,Oklahoma,Nowata County,2013,36.4
+2188,Oklahoma,Okfuskee County,2013,31
+2189,Oklahoma,Oklahoma County,2013,31.2
+2190,Oklahoma,Okmulgee County,2013,38
+2191,Oklahoma,Osage County,2013,34.5
+2192,Oklahoma,Ottawa County,2013,37.1
+2193,Oklahoma,Pawnee County,2013,33.9
+2194,Oklahoma,Payne County,2013,28.9
+2195,Oklahoma,Pittsburg County,2013,32.4
+2196,Oklahoma,Pontotoc County,2013,35.6
+2197,Oklahoma,Pottawatomie County,2013,34.2
+2198,Oklahoma,Pushmataha County,2013,30.3
+2199,Oklahoma,Roger Mills County,2013,32.8
+2200,Oklahoma,Rogers County,2013,32.7
+2201,Oklahoma,Seminole County,2013,36.4
+2202,Oklahoma,Sequoyah County,2013,32.5
+2203,Oklahoma,Stephens County,2013,34
+2204,Oklahoma,Texas County,2013,32.7
+2205,Oklahoma,Tillman County,2013,33.4
+2206,Oklahoma,Tulsa County,2013,29.6
+2207,Oklahoma,Wagoner County,2013,33.5
+2208,Oklahoma,Washington County,2013,33.2
+2209,Oklahoma,Washita County,2013,40.6
+2210,Oklahoma,Woods County,2013,33.4
+2211,Oklahoma,Woodward County,2013,38.6
+2212,Oregon,Baker County,2013,26.9
+2213,Oregon,Benton County,2013,21.6
+2214,Oregon,Clackamas County,2013,25.3
+2215,Oregon,Clatsop County,2013,30.7
+2216,Oregon,Columbia County,2013,33.8
+2217,Oregon,Coos County,2013,30.4
+2218,Oregon,Crook County,2013,25.7
+2219,Oregon,Curry County,2013,29.9
+2220,Oregon,Deschutes County,2013,24.1
+2221,Oregon,Douglas County,2013,31
+2222,Oregon,Gilliam County,2013,27.2
+2223,Oregon,Grant County,2013,29.6
+2224,Oregon,Harney County,2013,31.7
+2225,Oregon,Hood River County,2013,26.5
+2226,Oregon,Jackson County,2013,25.6
+2227,Oregon,Jefferson County,2013,32.5
+2228,Oregon,Josephine County,2013,27.1
+2229,Oregon,Klamath County,2013,29.9
+2230,Oregon,Lake County,2013,28
+2231,Oregon,Lane County,2013,27.4
+2232,Oregon,Lincoln County,2013,28.5
+2233,Oregon,Linn County,2013,33.6
+2234,Oregon,Malheur County,2013,28.5
+2235,Oregon,Marion County,2013,34.1
+2236,Oregon,Morrow County,2013,30.9
+2237,Oregon,Multnomah County,2013,21.3
+2238,Oregon,Polk County,2013,34.5
+2239,Oregon,Sherman County,2013,27.1
+2240,Oregon,Tillamook County,2013,28.8
+2241,Oregon,Umatilla County,2013,31.8
+2242,Oregon,Union County,2013,27.3
+2243,Oregon,Wallowa County,2013,24.3
+2244,Oregon,Wasco County,2013,25.5
+2245,Oregon,Washington County,2013,24
+2246,Oregon,Wheeler County,2013,27.2
+2247,Oregon,Yamhill County,2013,27.8
+2248,Pennsylvania,Adams County,2013,31.4
+2249,Pennsylvania,Allegheny County,2013,26.7
+2250,Pennsylvania,Armstrong County,2013,35.9
+2251,Pennsylvania,Beaver County,2013,29.7
+2252,Pennsylvania,Bedford County,2013,33.7
+2253,Pennsylvania,Berks County,2013,32.2
+2254,Pennsylvania,Blair County,2013,33.1
+2255,Pennsylvania,Bradford County,2013,32.5
+2256,Pennsylvania,Bucks County,2013,25.7
+2257,Pennsylvania,Butler County,2013,28.5
+2258,Pennsylvania,Cambria County,2013,28.9
+2259,Pennsylvania,Cameron County,2013,27.9
+2260,Pennsylvania,Carbon County,2013,35
+2261,Pennsylvania,Centre County,2013,26.6
+2262,Pennsylvania,Chester County,2013,23
+2263,Pennsylvania,Clarion County,2013,33.8
+2264,Pennsylvania,Clearfield County,2013,36.8
+2265,Pennsylvania,Clinton County,2013,32.4
+2266,Pennsylvania,Columbia County,2013,37.9
+2267,Pennsylvania,Crawford County,2013,34.5
+2268,Pennsylvania,Cumberland County,2013,27.6
+2269,Pennsylvania,Dauphin County,2013,32.5
+2270,Pennsylvania,Delaware County,2013,24
+2271,Pennsylvania,Elk County,2013,28.5
+2272,Pennsylvania,Erie County,2013,31.2
+2273,Pennsylvania,Fayette County,2013,38.5
+2274,Pennsylvania,Forest County,2013,32.1
+2275,Pennsylvania,Franklin County,2013,32.2
+2276,Pennsylvania,Fulton County,2013,31.6
+2277,Pennsylvania,Greene County,2013,33.4
+2278,Pennsylvania,Huntingdon County,2013,29.4
+2279,Pennsylvania,Indiana County,2013,37.2
+2280,Pennsylvania,Jefferson County,2013,31.5
+2281,Pennsylvania,Juniata County,2013,34.7
+2282,Pennsylvania,Lackawanna County,2013,31.3
+2283,Pennsylvania,Lancaster County,2013,29.3
+2284,Pennsylvania,Lawrence County,2013,34.3
+2285,Pennsylvania,Lebanon County,2013,29.5
+2286,Pennsylvania,Lehigh County,2013,30.1
+2287,Pennsylvania,Luzerne County,2013,28.9
+2288,Pennsylvania,Lycoming County,2013,31.5
+2289,Pennsylvania,McKean County,2013,31.9
+2290,Pennsylvania,Mercer County,2013,31.7
+2291,Pennsylvania,Mifflin County,2013,32
+2292,Pennsylvania,Monroe County,2013,28.8
+2293,Pennsylvania,Montgomery County,2013,24.6
+2294,Pennsylvania,Montour County,2013,32.5
+2295,Pennsylvania,Northampton County,2013,28.6
+2296,Pennsylvania,Northumberland County,2013,35.3
+2297,Pennsylvania,Perry County,2013,33
+2298,Pennsylvania,Philadelphia County,2013,29.8
+2299,Pennsylvania,Pike County,2013,29.1
+2300,Pennsylvania,Potter County,2013,32.4
+2301,Pennsylvania,Schuylkill County,2013,35.1
+2302,Pennsylvania,Snyder County,2013,32.5
+2303,Pennsylvania,Somerset County,2013,37.7
+2304,Pennsylvania,Sullivan County,2013,31.1
+2305,Pennsylvania,Susquehanna County,2013,30.4
+2306,Pennsylvania,Tioga County,2013,30.3
+2307,Pennsylvania,Union County,2013,28.2
+2308,Pennsylvania,Venango County,2013,34.7
+2309,Pennsylvania,Warren County,2013,33.6
+2310,Pennsylvania,Washington County,2013,28.3
+2311,Pennsylvania,Wayne County,2013,33.1
+2312,Pennsylvania,Westmoreland County,2013,30
+2313,Pennsylvania,Wyoming County,2013,33.4
+2314,Pennsylvania,York County,2013,33.3
+2315,Rhode Island,Bristol County,2013,22.9
+2316,Rhode Island,Kent County,2013,28.8
+2317,Rhode Island,Newport County,2013,23.1
+2318,Rhode Island,Providence County,2013,28.2
+2319,Rhode Island,Washington County,2013,23.9
+2320,South Carolina,Abbeville County,2013,35.2
+2321,South Carolina,Aiken County,2013,31.9
+2322,South Carolina,Allendale County,2013,41.1
+2323,South Carolina,Anderson County,2013,33.9
+2324,South Carolina,Bamberg County,2013,40.3
+2325,South Carolina,Barnwell County,2013,36.8
+2326,South Carolina,Beaufort County,2013,22
+2327,South Carolina,Berkeley County,2013,35
+2328,South Carolina,Calhoun County,2013,35.3
+2329,South Carolina,Charleston County,2013,24.6
+2330,South Carolina,Cherokee County,2013,36.5
+2331,South Carolina,Chester County,2013,36.1
+2332,South Carolina,Chesterfield County,2013,34.8
+2333,South Carolina,Clarendon County,2013,42.3
+2334,South Carolina,Colleton County,2013,39
+2335,South Carolina,Darlington County,2013,37.7
+2336,South Carolina,Dillon County,2013,37.4
+2337,South Carolina,Dorchester County,2013,33.9
+2338,South Carolina,Edgefield County,2013,32.7
+2339,South Carolina,Fairfield County,2013,41.3
+2340,South Carolina,Florence County,2013,34.1
+2341,South Carolina,Georgetown County,2013,30.8
+2342,South Carolina,Greenville County,2013,28.1
+2343,South Carolina,Greenwood County,2013,33.5
+2344,South Carolina,Hampton County,2013,42
+2345,South Carolina,Horry County,2013,29.8
+2346,South Carolina,Jasper County,2013,37
+2347,South Carolina,Kershaw County,2013,31.7
+2348,South Carolina,Lancaster County,2013,31.3
+2349,South Carolina,Laurens County,2013,40.8
+2350,South Carolina,Lee County,2013,44.3
+2351,South Carolina,Lexington County,2013,33.4
+2352,South Carolina,McCormick County,2013,35.2
+2353,South Carolina,Marion County,2013,39.9
+2354,South Carolina,Marlboro County,2013,39.2
+2355,South Carolina,Newberry County,2013,35.5
+2356,South Carolina,Oconee County,2013,28
+2357,South Carolina,Orangeburg County,2013,41.9
+2358,South Carolina,Pickens County,2013,30.2
+2359,South Carolina,Richland County,2013,32.6
+2360,South Carolina,Saluda County,2013,35.6
+2361,South Carolina,Spartanburg County,2013,30.5
+2362,South Carolina,Sumter County,2013,34.4
+2363,South Carolina,Union County,2013,36.9
+2364,South Carolina,Williamsburg County,2013,42.5
+2365,South Carolina,York County,2013,29.4
+2366,South Dakota,Aurora County,2013,28
+2367,South Dakota,Beadle County,2013,32
+2368,South Dakota,Bennett County,2013,36.6
+2369,South Dakota,Bon Homme County,2013,29.6
+2370,South Dakota,Brookings County,2013,27.4
+2371,South Dakota,Brown County,2013,32.2
+2372,South Dakota,Brule County,2013,34.4
+2373,South Dakota,Buffalo County,2013,42
+2374,South Dakota,Butte County,2013,31.3
+2375,South Dakota,Campbell County,2013,30.9
+2376,South Dakota,Charles Mix County,2013,33.6
+2377,South Dakota,Clark County,2013,30.6
+2378,South Dakota,Clay County,2013,31.1
+2379,South Dakota,Codington County,2013,31.2
+2380,South Dakota,Corson County,2013,40.9
+2381,South Dakota,Custer County,2013,29.7
+2382,South Dakota,Davison County,2013,34.3
+2383,South Dakota,Day County,2013,30.8
+2384,South Dakota,Deuel County,2013,33.3
+2385,South Dakota,Dewey County,2013,39.9
+2386,South Dakota,Douglas County,2013,29.8
+2387,South Dakota,Edmunds County,2013,29.1
+2388,South Dakota,Fall River County,2013,31.7
+2389,South Dakota,Faulk County,2013,29.3
+2390,South Dakota,Grant County,2013,30.6
+2391,South Dakota,Gregory County,2013,32.2
+2392,South Dakota,Haakon County,2013,30.1
+2393,South Dakota,Hamlin County,2013,30.8
+2394,South Dakota,Hand County,2013,29.9
+2395,South Dakota,Hanson County,2013,28.9
+2396,South Dakota,Harding County,2013,32.4
+2397,South Dakota,Hughes County,2013,28.3
+2398,South Dakota,Hutchinson County,2013,31
+2399,South Dakota,Hyde County,2013,30.5
+2400,South Dakota,Jackson County,2013,34.8
+2401,South Dakota,Jerauld County,2013,27.8
+2402,South Dakota,Jones County,2013,29.3
+2403,South Dakota,Kingsbury County,2013,33.8
+2404,South Dakota,Lake County,2013,31.3
+2405,South Dakota,Lawrence County,2013,25.7
+2406,South Dakota,Lincoln County,2013,28.7
+2407,South Dakota,Lyman County,2013,33.5
+2408,South Dakota,McCook County,2013,28.5
+2409,South Dakota,McPherson County,2013,27.3
+2410,South Dakota,Marshall County,2013,32.2
+2411,South Dakota,Meade County,2013,27
+2412,South Dakota,Mellette County,2013,32.4
+2413,South Dakota,Miner County,2013,31.4
+2414,South Dakota,Minnehaha County,2013,27.8
+2415,South Dakota,Moody County,2013,32.9
+2416,South Dakota,Pennington County,2013,27.3
+2417,South Dakota,Perkins County,2013,32.8
+2418,South Dakota,Potter County,2013,29.2
+2419,South Dakota,Roberts County,2013,32
+2420,South Dakota,Sanborn County,2013,29.7
+2421,South Dakota,Shannon County,2013,42.9
+2422,South Dakota,Spink County,2013,31.4
+2423,South Dakota,Stanley County,2013,33.4
+2424,South Dakota,Sully County,2013,33.1
+2425,South Dakota,Todd County,2013,38
+2426,South Dakota,Tripp County,2013,30.7
+2427,South Dakota,Turner County,2013,32.9
+2428,South Dakota,Union County,2013,30.4
+2429,South Dakota,Walworth County,2013,28.4
+2430,South Dakota,Yankton County,2013,30
+2431,South Dakota,Ziebach County,2013,42
+2432,Tennessee,Anderson County,2013,31.7
+2433,Tennessee,Bedford County,2013,32.1
+2434,Tennessee,Benton County,2013,32.4
+2435,Tennessee,Bledsoe County,2013,32.7
+2436,Tennessee,Blount County,2013,34
+2437,Tennessee,Bradley County,2013,34.9
+2438,Tennessee,Campbell County,2013,32.5
+2439,Tennessee,Cannon County,2013,33.3
+2440,Tennessee,Carroll County,2013,32.4
+2441,Tennessee,Carter County,2013,31.8
+2442,Tennessee,Cheatham County,2013,33.8
+2443,Tennessee,Chester County,2013,32
+2444,Tennessee,Claiborne County,2013,30.8
+2445,Tennessee,Clay County,2013,31.3
+2446,Tennessee,Cocke County,2013,34.4
+2447,Tennessee,Coffee County,2013,35.9
+2448,Tennessee,Crockett County,2013,33
+2449,Tennessee,Cumberland County,2013,29.2
+2450,Tennessee,Davidson County,2013,30.9
+2451,Tennessee,Decatur County,2013,36.3
+2452,Tennessee,DeKalb County,2013,31.8
+2453,Tennessee,Dickson County,2013,35.9
+2454,Tennessee,Dyer County,2013,37.2
+2455,Tennessee,Fayette County,2013,31.1
+2456,Tennessee,Fentress County,2013,35.5
+2457,Tennessee,Franklin County,2013,30.9
+2458,Tennessee,Gibson County,2013,32.3
+2459,Tennessee,Giles County,2013,32.1
+2460,Tennessee,Grainger County,2013,35
+2461,Tennessee,Greene County,2013,29.8
+2462,Tennessee,Grundy County,2013,31.3
+2463,Tennessee,Hamblen County,2013,30.8
+2464,Tennessee,Hamilton County,2013,30.2
+2465,Tennessee,Hancock County,2013,30.6
+2466,Tennessee,Hardeman County,2013,37.8
+2467,Tennessee,Hardin County,2013,31.9
+2468,Tennessee,Hawkins County,2013,32.9
+2469,Tennessee,Haywood County,2013,38.4
+2470,Tennessee,Henderson County,2013,34.8
+2471,Tennessee,Henry County,2013,33.7
+2472,Tennessee,Hickman County,2013,32.1
+2473,Tennessee,Houston County,2013,33.2
+2474,Tennessee,Humphreys County,2013,35.6
+2475,Tennessee,Jackson County,2013,34.7
+2476,Tennessee,Jefferson County,2013,34.2
+2477,Tennessee,Johnson County,2013,29.2
+2478,Tennessee,Knox County,2013,29.7
+2479,Tennessee,Lake County,2013,37.5
+2480,Tennessee,Lauderdale County,2013,38.3
+2481,Tennessee,Lawrence County,2013,34
+2482,Tennessee,Lewis County,2013,34.3
+2483,Tennessee,Lincoln County,2013,32.1
+2484,Tennessee,Loudon County,2013,27.5
+2485,Tennessee,McMinn County,2013,33.7
+2486,Tennessee,McNairy County,2013,38.6
+2487,Tennessee,Macon County,2013,34.2
+2488,Tennessee,Madison County,2013,34.3
+2489,Tennessee,Marion County,2013,32.9
+2490,Tennessee,Marshall County,2013,31.3
+2491,Tennessee,Maury County,2013,33.6
+2492,Tennessee,Meigs County,2013,27.9
+2493,Tennessee,Monroe County,2013,35.5
+2494,Tennessee,Montgomery County,2013,29
+2495,Tennessee,Moore County,2013,32
+2496,Tennessee,Morgan County,2013,30.3
+2497,Tennessee,Obion County,2013,33.6
+2498,Tennessee,Overton County,2013,33
+2499,Tennessee,Perry County,2013,31.4
+2500,Tennessee,Pickett County,2013,33.1
+2501,Tennessee,Polk County,2013,34.9
+2502,Tennessee,Putnam County,2013,32.6
+2503,Tennessee,Rhea County,2013,30.4
+2504,Tennessee,Roane County,2013,34.1
+2505,Tennessee,Robertson County,2013,35.6
+2506,Tennessee,Rutherford County,2013,33
+2507,Tennessee,Scott County,2013,28.9
+2508,Tennessee,Sequatchie County,2013,28.3
+2509,Tennessee,Sevier County,2013,30.6
+2510,Tennessee,Shelby County,2013,32.6
+2511,Tennessee,Smith County,2013,36.8
+2512,Tennessee,Stewart County,2013,31.4
+2513,Tennessee,Sullivan County,2013,30.1
+2514,Tennessee,Sumner County,2013,29.7
+2515,Tennessee,Tipton County,2013,35.4
+2516,Tennessee,Trousdale County,2013,32.9
+2517,Tennessee,Unicoi County,2013,33.4
+2518,Tennessee,Union County,2013,31
+2519,Tennessee,Van Buren County,2013,32.1
+2520,Tennessee,Warren County,2013,31.4
+2521,Tennessee,Washington County,2013,32.2
+2522,Tennessee,Wayne County,2013,32.7
+2523,Tennessee,Weakley County,2013,30.9
+2524,Tennessee,White County,2013,31.2
+2525,Tennessee,Williamson County,2013,25.9
+2526,Tennessee,Wilson County,2013,31.7
+2527,Texas,Anderson County,2013,31.6
+2528,Texas,Andrews County,2013,28.1
+2529,Texas,Angelina County,2013,37.5
+2530,Texas,Aransas County,2013,26.9
+2531,Texas,Archer County,2013,27.1
+2532,Texas,Armstrong County,2013,27.2
+2533,Texas,Atascosa County,2013,27.9
+2534,Texas,Austin County,2013,27
+2535,Texas,Bailey County,2013,26.7
+2536,Texas,Bandera County,2013,27.1
+2537,Texas,Bastrop County,2013,33.1
+2538,Texas,Baylor County,2013,28.1
+2539,Texas,Bee County,2013,29.3
+2540,Texas,Bell County,2013,29
+2541,Texas,Bexar County,2013,27.3
+2542,Texas,Blanco County,2013,28.7
+2543,Texas,Borden County,2013,27.3
+2544,Texas,Bosque County,2013,27.8
+2545,Texas,Bowie County,2013,32.4
+2546,Texas,Brazoria County,2013,31.2
+2547,Texas,Brazos County,2013,28.4
+2548,Texas,Brewster County,2013,27.7
+2549,Texas,Briscoe County,2013,26.4
+2550,Texas,Brooks County,2013,27.2
+2551,Texas,Brown County,2013,25.2
+2552,Texas,Burleson County,2013,29.8
+2553,Texas,Burnet County,2013,30
+2554,Texas,Caldwell County,2013,26.4
+2555,Texas,Calhoun County,2013,29.1
+2556,Texas,Callahan County,2013,28.4
+2557,Texas,Cameron County,2013,33.2
+2558,Texas,Camp County,2013,31.8
+2559,Texas,Carson County,2013,28.4
+2560,Texas,Cass County,2013,31.3
+2561,Texas,Castro County,2013,28.1
+2562,Texas,Chambers County,2013,28.6
+2563,Texas,Cherokee County,2013,30.1
+2564,Texas,Childress County,2013,27
+2565,Texas,Clay County,2013,29.4
+2566,Texas,Cochran County,2013,26.9
+2567,Texas,Coke County,2013,28.1
+2568,Texas,Coleman County,2013,28.1
+2569,Texas,Collin County,2013,24.6
+2570,Texas,Collingsworth County,2013,28
+2571,Texas,Colorado County,2013,28.5
+2572,Texas,Comal County,2013,26.7
+2573,Texas,Comanche County,2013,28.3
+2574,Texas,Concho County,2013,27.5
+2575,Texas,Cooke County,2013,29.2
+2576,Texas,Coryell County,2013,30.3
+2577,Texas,Cottle County,2013,27.4
+2578,Texas,Crane County,2013,29.3
+2579,Texas,Crockett County,2013,27.9
+2580,Texas,Crosby County,2013,27.8
+2581,Texas,Culberson County,2013,27.6
+2582,Texas,Dallam County,2013,31.5
+2583,Texas,Dallas County,2013,27.6
+2584,Texas,Dawson County,2013,29.9
+2585,Texas,Deaf Smith County,2013,29.4
+2586,Texas,Delta County,2013,28
+2587,Texas,Denton County,2013,22.1
+2588,Texas,DeWitt County,2013,30.6
+2589,Texas,Dickens County,2013,26.6
+2590,Texas,Dimmit County,2013,29.9
+2591,Texas,Donley County,2013,27.6
+2592,Texas,Duval County,2013,27.8
+2593,Texas,Eastland County,2013,28.2
+2594,Texas,Ector County,2013,31.6
+2595,Texas,Edwards County,2013,27.1
+2596,Texas,Ellis County,2013,29.8
+2597,Texas,El Paso County,2013,28.4
+2598,Texas,Erath County,2013,28.2
+2599,Texas,Falls County,2013,29.8
+2600,Texas,Fannin County,2013,28.4
+2601,Texas,Fayette County,2013,27.1
+2602,Texas,Fisher County,2013,26.7
+2603,Texas,Floyd County,2013,26.8
+2604,Texas,Foard County,2013,26.3
+2605,Texas,Fort Bend County,2013,23.9
+2606,Texas,Franklin County,2013,26.9
+2607,Texas,Freestone County,2013,28.5
+2608,Texas,Frio County,2013,27.5
+2609,Texas,Gaines County,2013,30.6
+2610,Texas,Galveston County,2013,27.6
+2611,Texas,Garza County,2013,27.5
+2612,Texas,Gillespie County,2013,26.8
+2613,Texas,Glasscock County,2013,26.8
+2614,Texas,Goliad County,2013,29.2
+2615,Texas,Gonzales County,2013,29.5
+2616,Texas,Gray County,2013,28.4
+2617,Texas,Grayson County,2013,28.9
+2618,Texas,Gregg County,2013,35.3
+2619,Texas,Grimes County,2013,29.1
+2620,Texas,Guadalupe County,2013,30.9
+2621,Texas,Hale County,2013,30.6
+2622,Texas,Hall County,2013,29.1
+2623,Texas,Hamilton County,2013,30
+2624,Texas,Hansford County,2013,28.1
+2625,Texas,Hardeman County,2013,28.5
+2626,Texas,Hardin County,2013,32.1
+2627,Texas,Harris County,2013,27.2
+2628,Texas,Harrison County,2013,33.3
+2629,Texas,Hartley County,2013,27.3
+2630,Texas,Haskell County,2013,27.3
+2631,Texas,Hays County,2013,23.8
+2632,Texas,Hemphill County,2013,26.8
+2633,Texas,Henderson County,2013,30.2
+2634,Texas,Hidalgo County,2013,34.4
+2635,Texas,Hill County,2013,28.7
+2636,Texas,Hockley County,2013,30.7
+2637,Texas,Hood County,2013,26.5
+2638,Texas,Hopkins County,2013,30.5
+2639,Texas,Houston County,2013,28.3
+2640,Texas,Howard County,2013,31.1
+2641,Texas,Hudspeth County,2013,26.3
+2642,Texas,Hunt County,2013,27
+2643,Texas,Hutchinson County,2013,31.1
+2644,Texas,Irion County,2013,27.9
+2645,Texas,Jack County,2013,26.9
+2646,Texas,Jackson County,2013,32.2
+2647,Texas,Jasper County,2013,29.1
+2648,Texas,Jeff Davis County,2013,26.2
+2649,Texas,Jefferson County,2013,33.2
+2650,Texas,Jim Hogg County,2013,27.3
+2651,Texas,Jim Wells County,2013,28.5
+2652,Texas,Johnson County,2013,30.2
+2653,Texas,Jones County,2013,27.4
+2654,Texas,Karnes County,2013,29.2
+2655,Texas,Kaufman County,2013,27.2
+2656,Texas,Kendall County,2013,27.3
+2657,Texas,Kenedy County,2013,26.4
+2658,Texas,Kent County,2013,26.4
+2659,Texas,Kerr County,2013,26.7
+2660,Texas,Kimble County,2013,28.4
+2661,Texas,King County,2013,27.5
+2662,Texas,Kinney County,2013,26.7
+2663,Texas,Kleberg County,2013,28
+2664,Texas,Knox County,2013,26.6
+2665,Texas,Lamar County,2013,32.7
+2666,Texas,Lamb County,2013,31
+2667,Texas,Lampasas County,2013,28.2
+2668,Texas,La Salle County,2013,26.6
+2669,Texas,Lavaca County,2013,32
+2670,Texas,Lee County,2013,28.1
+2671,Texas,Leon County,2013,29.5
+2672,Texas,Liberty County,2013,27.6
+2673,Texas,Limestone County,2013,33.9
+2674,Texas,Lipscomb County,2013,27.2
+2675,Texas,Live Oak County,2013,27.6
+2676,Texas,Llano County,2013,27
+2677,Texas,Loving County,2013,29
+2678,Texas,Lubbock County,2013,27.7
+2679,Texas,Lynn County,2013,28.4
+2680,Texas,McCulloch County,2013,28.5
+2681,Texas,McLennan County,2013,28.6
+2682,Texas,McMullen County,2013,32.2
+2683,Texas,Madison County,2013,28.8
+2684,Texas,Marion County,2013,31.3
+2685,Texas,Martin County,2013,27.1
+2686,Texas,Mason County,2013,26.2
+2687,Texas,Matagorda County,2013,31.9
+2688,Texas,Maverick County,2013,29.4
+2689,Texas,Medina County,2013,32.2
+2690,Texas,Menard County,2013,27.3
+2691,Texas,Midland County,2013,30.9
+2692,Texas,Milam County,2013,29.7
+2693,Texas,Mills County,2013,26.1
+2694,Texas,Mitchell County,2013,26.6
+2695,Texas,Montague County,2013,25.9
+2696,Texas,Montgomery County,2013,24.5
+2697,Texas,Moore County,2013,29.9
+2698,Texas,Morris County,2013,30
+2699,Texas,Motley County,2013,26.8
+2700,Texas,Nacogdoches County,2013,32.2
+2701,Texas,Navarro County,2013,28.4
+2702,Texas,Newton County,2013,28
+2703,Texas,Nolan County,2013,29
+2704,Texas,Nueces County,2013,33.6
+2705,Texas,Ochiltree County,2013,28.7
+2706,Texas,Oldham County,2013,29.3
+2707,Texas,Orange County,2013,29.5
+2708,Texas,Palo Pinto County,2013,29.4
+2709,Texas,Panola County,2013,30.7
+2710,Texas,Parker County,2013,29
+2711,Texas,Parmer County,2013,29.4
+2712,Texas,Pecos County,2013,28.6
+2713,Texas,Polk County,2013,29.4
+2714,Texas,Potter County,2013,31
+2715,Texas,Presidio County,2013,26.1
+2716,Texas,Rains County,2013,29.7
+2717,Texas,Randall County,2013,26.6
+2718,Texas,Reagan County,2013,27.7
+2719,Texas,Real County,2013,27.6
+2720,Texas,Red River County,2013,30.7
+2721,Texas,Reeves County,2013,28.3
+2722,Texas,Refugio County,2013,28.4
+2723,Texas,Roberts County,2013,26.6
+2724,Texas,Robertson County,2013,29.8
+2725,Texas,Rockwall County,2013,25.3
+2726,Texas,Runnels County,2013,26.8
+2727,Texas,Rusk County,2013,30.8
+2728,Texas,Sabine County,2013,27.8
+2729,Texas,San Augustine County,2013,32.3
+2730,Texas,San Jacinto County,2013,28.1
+2731,Texas,San Patricio County,2013,33
+2732,Texas,San Saba County,2013,27.4
+2733,Texas,Schleicher County,2013,27.5
+2734,Texas,Scurry County,2013,26.2
+2735,Texas,Shackelford County,2013,28.3
+2736,Texas,Shelby County,2013,31.2
+2737,Texas,Sherman County,2013,27.5
+2738,Texas,Smith County,2013,29.6
+2739,Texas,Somervell County,2013,27.6
+2740,Texas,Starr County,2013,29.6
+2741,Texas,Stephens County,2013,27
+2742,Texas,Sterling County,2013,27.4
+2743,Texas,Stonewall County,2013,27
+2744,Texas,Sutton County,2013,26.6
+2745,Texas,Swisher County,2013,27.7
+2746,Texas,Tarrant County,2013,29.1
+2747,Texas,Taylor County,2013,30.8
+2748,Texas,Terrell County,2013,26.8
+2749,Texas,Terry County,2013,29.2
+2750,Texas,Throckmorton County,2013,26.8
+2751,Texas,Titus County,2013,30.9
+2752,Texas,Tom Green County,2013,27.6
+2753,Texas,Travis County,2013,20.3
+2754,Texas,Trinity County,2013,27.4
+2755,Texas,Tyler County,2013,31
+2756,Texas,Upshur County,2013,29.6
+2757,Texas,Upton County,2013,26.9
+2758,Texas,Uvalde County,2013,30
+2759,Texas,Val Verde County,2013,30
+2760,Texas,Van Zandt County,2013,30.2
+2761,Texas,Victoria County,2013,34.3
+2762,Texas,Walker County,2013,29.7
+2763,Texas,Waller County,2013,33.6
+2764,Texas,Ward County,2013,28.5
+2765,Texas,Washington County,2013,29.6
+2766,Texas,Webb County,2013,31.3
+2767,Texas,Wharton County,2013,31.9
+2768,Texas,Wheeler County,2013,27.8
+2769,Texas,Wichita County,2013,31.1
+2770,Texas,Wilbarger County,2013,28
+2771,Texas,Willacy County,2013,27.6
+2772,Texas,Williamson County,2013,31.1
+2773,Texas,Wilson County,2013,31.4
+2774,Texas,Winkler County,2013,27.7
+2775,Texas,Wise County,2013,30.9
+2776,Texas,Wood County,2013,30.1
+2777,Texas,Yoakum County,2013,26.7
+2778,Texas,Young County,2013,27.1
+2779,Texas,Zapata County,2013,26.3
+2780,Texas,Zavala County,2013,27.4
+2781,Utah,Beaver County,2013,25.7
+2782,Utah,Box Elder County,2013,33.5
+2783,Utah,Cache County,2013,21.8
+2784,Utah,Carbon County,2013,26.6
+2785,Utah,Daggett County,2013,26.1
+2786,Utah,Davis County,2013,25
+2787,Utah,Duchesne County,2013,27.6
+2788,Utah,Emery County,2013,25.8
+2789,Utah,Garfield County,2013,32.5
+2790,Utah,Grand County,2013,22.3
+2791,Utah,Iron County,2013,23.3
+2792,Utah,Juab County,2013,28
+2793,Utah,Kane County,2013,26.1
+2794,Utah,Millard County,2013,31.3
+2795,Utah,Morgan County,2013,22
+2796,Utah,Piute County,2013,26.1
+2797,Utah,Rich County,2013,26.4
+2798,Utah,Salt Lake County,2013,25.4
+2799,Utah,San Juan County,2013,26.7
+2800,Utah,Sanpete County,2013,25.4
+2801,Utah,Sevier County,2013,29.9
+2802,Utah,Summit County,2013,14.4
+2803,Utah,Tooele County,2013,31.7
+2804,Utah,Uintah County,2013,27.6
+2805,Utah,Utah County,2013,24.4
+2806,Utah,Wasatch County,2013,23
+2807,Utah,Washington County,2013,23.7
+2808,Utah,Wayne County,2013,22.8
+2809,Utah,Weber County,2013,28.4
+2810,Vermont,Addison County,2013,23
+2811,Vermont,Bennington County,2013,24.1
+2812,Vermont,Caledonia County,2013,28.3
+2813,Vermont,Chittenden County,2013,19.8
+2814,Vermont,Essex County,2013,29.8
+2815,Vermont,Franklin County,2013,27.5
+2816,Vermont,Grand Isle County,2013,26.8
+2817,Vermont,Lamoille County,2013,25.2
+2818,Vermont,Orange County,2013,26.6
+2819,Vermont,Orleans County,2013,28.5
+2820,Vermont,Rutland County,2013,29.5
+2821,Vermont,Washington County,2013,23
+2822,Vermont,Windham County,2013,23.4
+2823,Vermont,Windsor County,2013,24
+2824,Virginia,Accomack County,2013,34.7
+2825,Virginia,Albemarle County,2013,22.6
+2826,Virginia,Alleghany County,2013,33
+2827,Virginia,Amelia County,2013,29
+2828,Virginia,Amherst County,2013,29.4
+2829,Virginia,Appomattox County,2013,29.3
+2830,Virginia,Arlington County,2013,16.1
+2831,Virginia,Augusta County,2013,34
+2832,Virginia,Bath County,2013,28.7
+2833,Virginia,Bedford County,2013,33.1
+2834,Virginia,Bland County,2013,30.9
+2835,Virginia,Botetourt County,2013,25.6
+2836,Virginia,Brunswick County,2013,35.9
+2837,Virginia,Buchanan County,2013,31.8
+2838,Virginia,Buckingham County,2013,33.5
+2839,Virginia,Campbell County,2013,31.5
+2840,Virginia,Caroline County,2013,29.6
+2841,Virginia,Carroll County,2013,29.1
+2842,Virginia,Charles City County,2013,35.2
+2843,Virginia,Charlotte County,2013,33.5
+2844,Virginia,Chesterfield County,2013,26
+2845,Virginia,Clarke County,2013,26.8
+2846,Virginia,Craig County,2013,27.8
+2847,Virginia,Culpeper County,2013,31.8
+2848,Virginia,Cumberland County,2013,32.1
+2849,Virginia,Dickenson County,2013,35.1
+2850,Virginia,Dinwiddie County,2013,32.7
+2851,Virginia,Essex County,2013,32.7
+2852,Virginia,Fairfax County,2013,20.3
+2853,Virginia,Fauquier County,2013,25.5
+2854,Virginia,Floyd County,2013,26.5
+2855,Virginia,Fluvanna County,2013,27.6
+2856,Virginia,Franklin County,2013,28.4
+2857,Virginia,Frederick County,2013,31.7
+2858,Virginia,Giles County,2013,30.3
+2859,Virginia,Gloucester County,2013,34.5
+2860,Virginia,Goochland County,2013,28.4
+2861,Virginia,Grayson County,2013,30.3
+2862,Virginia,Greene County,2013,27.9
+2863,Virginia,Greensville County,2013,32.7
+2864,Virginia,Halifax County,2013,32.4
+2865,Virginia,Hanover County,2013,27.4
+2866,Virginia,Henrico County,2013,27.5
+2867,Virginia,Henry County,2013,32.3
+2868,Virginia,Highland County,2013,26.3
+2869,Virginia,Isle of Wight County,2013,29.3
+2870,Virginia,James City County,2013,25.2
+2871,Virginia,King and Queen County,2013,30.1
+2872,Virginia,King George County,2013,28.3
+2873,Virginia,King William County,2013,26.3
+2874,Virginia,Lancaster County,2013,29.8
+2875,Virginia,Lee County,2013,29.4
+2876,Virginia,Loudoun County,2013,21.6
+2877,Virginia,Louisa County,2013,32.4
+2878,Virginia,Lunenburg County,2013,27.5
+2879,Virginia,Madison County,2013,29.1
+2880,Virginia,Mathews County,2013,27.8
+2881,Virginia,Mecklenburg County,2013,30.9
+2882,Virginia,Middlesex County,2013,26.2
+2883,Virginia,Montgomery County,2013,24.2
+2884,Virginia,Nelson County,2013,29.7
+2885,Virginia,New Kent County,2013,28.2
+2886,Virginia,Northampton County,2013,36.1
+2887,Virginia,Northumberland County,2013,26.3
+2888,Virginia,Nottoway County,2013,34
+2889,Virginia,Orange County,2013,28.3
+2890,Virginia,Page County,2013,28.3
+2891,Virginia,Patrick County,2013,30.9
+2892,Virginia,Pittsylvania County,2013,32
+2893,Virginia,Powhatan County,2013,30
+2894,Virginia,Prince Edward County,2013,32.1
+2895,Virginia,Prince George County,2013,33.2
+2896,Virginia,Prince William County,2013,25.5
+2897,Virginia,Pulaski County,2013,33
+2898,Virginia,Rappahannock County,2013,27.2
+2899,Virginia,Richmond County,2013,29.9
+2900,Virginia,Roanoke County,2013,26.6
+2901,Virginia,Rockbridge County,2013,24.8
+2902,Virginia,Rockingham County,2013,26.4
+2903,Virginia,Russell County,2013,28.9
+2904,Virginia,Scott County,2013,31.2
+2905,Virginia,Shenandoah County,2013,26.6
+2906,Virginia,Smyth County,2013,29.6
+2907,Virginia,Southampton County,2013,31.1
+2908,Virginia,Spotsylvania County,2013,32.7
+2909,Virginia,Stafford County,2013,29.6
+2910,Virginia,Surry County,2013,35.3
+2911,Virginia,Sussex County,2013,35.9
+2912,Virginia,Tazewell County,2013,30.3
+2913,Virginia,Warren County,2013,29.2
+2914,Virginia,Washington County,2013,30
+2915,Virginia,Westmoreland County,2013,30.7
+2916,Virginia,Wise County,2013,30.8
+2917,Virginia,Wythe County,2013,31.3
+2918,Virginia,York County,2013,26.1
+2919,Virginia,Alexandria city,2013,20.1
+2920,Virginia,Bedford city,2013,No Data
+2921,Virginia,Bristol city,2013,27.3
+2922,Virginia,Buena Vista city,2013,25.9
+2923,Virginia,Charlottesville city,2013,25.9
+2924,Virginia,Chesapeake city,2013,32.3
+2925,Virginia,Colonial Heights city,2013,26.8
+2926,Virginia,Covington city,2013,26.4
+2927,Virginia,Danville city,2013,34.1
+2928,Virginia,Emporia city,2013,29.7
+2929,Virginia,Fairfax city,2013,21.8
+2930,Virginia,Falls Church city,2013,27.5
+2931,Virginia,Franklin city,2013,34.4
+2932,Virginia,Fredericksburg city,2013,28.8
+2933,Virginia,Galax city,2013,26
+2934,Virginia,Hampton city,2013,34.8
+2935,Virginia,Harrisonburg city,2013,24.8
+2936,Virginia,Hopewell city,2013,31.8
+2937,Virginia,Lexington city,2013,26
+2938,Virginia,Lynchburg city,2013,27.1
+2939,Virginia,Manassas city,2013,28.7
+2940,Virginia,Manassas Park city,2013,28.3
+2941,Virginia,Martinsville city,2013,33.5
+2942,Virginia,Newport News city,2013,32.3
+2943,Virginia,Norfolk city,2013,30.1
+2944,Virginia,Norton city,2013,26.2
+2945,Virginia,Petersburg city,2013,41.4
+2946,Virginia,Poquoson city,2013,24.7
+2947,Virginia,Portsmouth city,2013,37.2
+2948,Virginia,Radford city,2013,29.6
+2949,Virginia,Richmond city,2013,30
+2950,Virginia,Roanoke city,2013,31.9
+2951,Virginia,Salem city,2013,25.2
+2952,Virginia,Staunton city,2013,27.1
+2953,Virginia,Suffolk city,2013,31.9
+2954,Virginia,Virginia Beach city,2013,27.9
+2955,Virginia,Waynesboro city,2013,29.7
+2956,Virginia,Williamsburg city,2013,26
+2957,Virginia,Winchester city,2013,26.7
+2958,Washington,Adams County,2013,34.4
+2959,Washington,Asotin County,2013,33.4
+2960,Washington,Benton County,2013,31.5
+2961,Washington,Chelan County,2013,26.7
+2962,Washington,Clallam County,2013,26.3
+2963,Washington,Clark County,2013,29.9
+2964,Washington,Columbia County,2013,30
+2965,Washington,Cowlitz County,2013,32.1
+2966,Washington,Douglas County,2013,28.7
+2967,Washington,Ferry County,2013,28.1
+2968,Washington,Franklin County,2013,30.1
+2969,Washington,Garfield County,2013,33.1
+2970,Washington,Grant County,2013,34.3
+2971,Washington,Grays Harbor County,2013,36.9
+2972,Washington,Island County,2013,27.4
+2973,Washington,Jefferson County,2013,24.5
+2974,Washington,King County,2013,22.2
+2975,Washington,Kitsap County,2013,29.6
+2976,Washington,Kittitas County,2013,28.9
+2977,Washington,Klickitat County,2013,27.5
+2978,Washington,Lewis County,2013,32.8
+2979,Washington,Lincoln County,2013,31.2
+2980,Washington,Mason County,2013,30.5
+2981,Washington,Okanogan County,2013,28
+2982,Washington,Pacific County,2013,31.6
+2983,Washington,Pend Oreille County,2013,28.8
+2984,Washington,Pierce County,2013,30
+2985,Washington,San Juan County,2013,20.7
+2986,Washington,Skagit County,2013,26.4
+2987,Washington,Skamania County,2013,28.1
+2988,Washington,Snohomish County,2013,29.4
+2989,Washington,Spokane County,2013,29.2
+2990,Washington,Stevens County,2013,30.6
+2991,Washington,Thurston County,2013,28.1
+2992,Washington,Wahkiakum County,2013,31.4
+2993,Washington,Walla Walla County,2013,28
+2994,Washington,Whatcom County,2013,23.1
+2995,Washington,Whitman County,2013,22.9
+2996,Washington,Yakima County,2013,29.6
+2997,West Virginia,Barbour County,2013,37.6
+2998,West Virginia,Berkeley County,2013,34.3
+2999,West Virginia,Boone County,2013,35.4
+3000,West Virginia,Braxton County,2013,32.5
+3001,West Virginia,Brooke County,2013,39
+3002,West Virginia,Cabell County,2013,30.5
+3003,West Virginia,Calhoun County,2013,32.7
+3004,West Virginia,Clay County,2013,32.6
+3005,West Virginia,Doddridge County,2013,35.7
+3006,West Virginia,Fayette County,2013,35.6
+3007,West Virginia,Gilmer County,2013,39
+3008,West Virginia,Grant County,2013,38.9
+3009,West Virginia,Greenbrier County,2013,34.2
+3010,West Virginia,Hampshire County,2013,33.8
+3011,West Virginia,Hancock County,2013,34.8
+3012,West Virginia,Hardy County,2013,37
+3013,West Virginia,Harrison County,2013,33.7
+3014,West Virginia,Jackson County,2013,31.7
+3015,West Virginia,Jefferson County,2013,33.2
+3016,West Virginia,Kanawha County,2013,32.7
+3017,West Virginia,Lewis County,2013,35.9
+3018,West Virginia,Lincoln County,2013,39.9
+3019,West Virginia,Logan County,2013,40.7
+3020,West Virginia,McDowell County,2013,42.1
+3021,West Virginia,Marion County,2013,32.6
+3022,West Virginia,Marshall County,2013,35.2
+3023,West Virginia,Mason County,2013,36.1
+3024,West Virginia,Mercer County,2013,37.4
+3025,West Virginia,Mineral County,2013,34.5
+3026,West Virginia,Mingo County,2013,40.3
+3027,West Virginia,Monongalia County,2013,28.8
+3028,West Virginia,Monroe County,2013,30.9
+3029,West Virginia,Morgan County,2013,32.6
+3030,West Virginia,Nicholas County,2013,38.2
+3031,West Virginia,Ohio County,2013,31.4
+3032,West Virginia,Pendleton County,2013,36
+3033,West Virginia,Pleasants County,2013,38.8
+3034,West Virginia,Pocahontas County,2013,31.4
+3035,West Virginia,Preston County,2013,35.9
+3036,West Virginia,Putnam County,2013,34.6
+3037,West Virginia,Raleigh County,2013,35.6
+3038,West Virginia,Randolph County,2013,34.8
+3039,West Virginia,Ritchie County,2013,35.7
+3040,West Virginia,Roane County,2013,36.2
+3041,West Virginia,Summers County,2013,36.1
+3042,West Virginia,Taylor County,2013,37
+3043,West Virginia,Tucker County,2013,37.8
+3044,West Virginia,Tyler County,2013,32.6
+3045,West Virginia,Upshur County,2013,38.2
+3046,West Virginia,Wayne County,2013,37.7
+3047,West Virginia,Webster County,2013,34.7
+3048,West Virginia,Wetzel County,2013,33
+3049,West Virginia,Wirt County,2013,36.9
+3050,West Virginia,Wood County,2013,35.9
+3051,West Virginia,Wyoming County,2013,38.8
+3052,Wisconsin,Adams County,2013,34
+3053,Wisconsin,Ashland County,2013,27.3
+3054,Wisconsin,Barron County,2013,31.6
+3055,Wisconsin,Bayfield County,2013,28.7
+3056,Wisconsin,Brown County,2013,28.4
+3057,Wisconsin,Buffalo County,2013,32
+3058,Wisconsin,Burnett County,2013,28.7
+3059,Wisconsin,Calumet County,2013,31.3
+3060,Wisconsin,Chippewa County,2013,30.2
+3061,Wisconsin,Clark County,2013,34.1
+3062,Wisconsin,Columbia County,2013,34.7
+3063,Wisconsin,Crawford County,2013,33.1
+3064,Wisconsin,Dane County,2013,23.7
+3065,Wisconsin,Dodge County,2013,31.7
+3066,Wisconsin,Door County,2013,27.5
+3067,Wisconsin,Douglas County,2013,32.2
+3068,Wisconsin,Dunn County,2013,32.3
+3069,Wisconsin,Eau Claire County,2013,29.2
+3070,Wisconsin,Florence County,2013,32
+3071,Wisconsin,Fond du Lac County,2013,30.1
+3072,Wisconsin,Forest County,2013,34.7
+3073,Wisconsin,Grant County,2013,31.9
+3074,Wisconsin,Green County,2013,31.4
+3075,Wisconsin,Green Lake County,2013,34.6
+3076,Wisconsin,Iowa County,2013,31.8
+3077,Wisconsin,Iron County,2013,29.1
+3078,Wisconsin,Jackson County,2013,32.6
+3079,Wisconsin,Jefferson County,2013,29.4
+3080,Wisconsin,Juneau County,2013,35.8
+3081,Wisconsin,Kenosha County,2013,32.9
+3082,Wisconsin,Kewaunee County,2013,33.5
+3083,Wisconsin,La Crosse County,2013,28.3
+3084,Wisconsin,Lafayette County,2013,35.3
+3085,Wisconsin,Langlade County,2013,29.9
+3086,Wisconsin,Lincoln County,2013,32.8
+3087,Wisconsin,Manitowoc County,2013,30.8
+3088,Wisconsin,Marathon County,2013,29.5
+3089,Wisconsin,Marinette County,2013,35.3
+3090,Wisconsin,Marquette County,2013,34.9
+3091,Wisconsin,Menominee County,2013,42.5
+3092,Wisconsin,Milwaukee County,2013,32.9
+3093,Wisconsin,Monroe County,2013,33
+3094,Wisconsin,Oconto County,2013,30.4
+3095,Wisconsin,Oneida County,2013,32.8
+3096,Wisconsin,Outagamie County,2013,30.1
+3097,Wisconsin,Ozaukee County,2013,27.1
+3098,Wisconsin,Pepin County,2013,34.2
+3099,Wisconsin,Pierce County,2013,30.3
+3100,Wisconsin,Polk County,2013,30.3
+3101,Wisconsin,Portage County,2013,33.4
+3102,Wisconsin,Price County,2013,34
+3103,Wisconsin,Racine County,2013,32.9
+3104,Wisconsin,Richland County,2013,31.8
+3105,Wisconsin,Rock County,2013,36.9
+3106,Wisconsin,Rusk County,2013,31.7
+3107,Wisconsin,St. Croix County,2013,26.2
+3108,Wisconsin,Sauk County,2013,32.5
+3109,Wisconsin,Sawyer County,2013,29.7
+3110,Wisconsin,Shawano County,2013,33.8
+3111,Wisconsin,Sheboygan County,2013,29.4
+3112,Wisconsin,Taylor County,2013,34.4
+3113,Wisconsin,Trempealeau County,2013,29.6
+3114,Wisconsin,Vernon County,2013,32.8
+3115,Wisconsin,Vilas County,2013,27.7
+3116,Wisconsin,Walworth County,2013,25.1
+3117,Wisconsin,Washburn County,2013,30.8
+3118,Wisconsin,Washington County,2013,29.2
+3119,Wisconsin,Waukesha County,2013,27.5
+3120,Wisconsin,Waupaca County,2013,28.5
+3121,Wisconsin,Waushara County,2013,32.9
+3122,Wisconsin,Winnebago County,2013,31.9
+3123,Wisconsin,Wood County,2013,32.3
+3124,Wyoming,Albany County,2013,23.3
+3125,Wyoming,Big Horn County,2013,28.9
+3126,Wyoming,Campbell County,2013,34.3
+3127,Wyoming,Carbon County,2013,28.2
+3128,Wyoming,Converse County,2013,28.3
+3129,Wyoming,Crook County,2013,25.9
+3130,Wyoming,Fremont County,2013,28.3
+3131,Wyoming,Goshen County,2013,29.9
+3132,Wyoming,Hot Springs County,2013,27
+3133,Wyoming,Johnson County,2013,21.1
+3134,Wyoming,Laramie County,2013,29.7
+3135,Wyoming,Lincoln County,2013,25.6
+3136,Wyoming,Natrona County,2013,29.4
+3137,Wyoming,Niobrara County,2013,25.5
+3138,Wyoming,Park County,2013,25.5
+3139,Wyoming,Platte County,2013,28
+3140,Wyoming,Sheridan County,2013,23.3
+3141,Wyoming,Sublette County,2013,23.5
+3142,Wyoming,Sweetwater County,2013,31.7
+3143,Wyoming,Teton County,2013,12.7
+3144,Wyoming,Uinta County,2013,27.9
+3145,Wyoming,Washakie County,2013,27.7
+3146,Wyoming,Weston County,2013,29.2
+3147,,,,
